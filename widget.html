@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="zh-Hant-HK">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Metre Customer Service Chat Widget</title>
+<style>
+  :root { --metre: #111; --accent: #f59e0b; }
+  #metre-chat-launcher {
+    position: fixed; right: 20px; bottom: 20px; z-index: 99999;
+    width: 60px; height: 60px; border-radius: 50%; border: 0; cursor: pointer;
+    background: var(--metre); color: #fff; font-size: 26px; box-shadow: 0 6px 20px rgba(0,0,0,.25);
+  }
+  #metre-chat-panel {
+    position: fixed; right: 20px; bottom: 92px; z-index: 99999; width: 360px; max-width: calc(100vw - 40px);
+    height: 520px; max-height: calc(100vh - 120px); background: #fff; border-radius: 14px; overflow: hidden;
+    box-shadow: 0 12px 40px rgba(0,0,0,.25); display: none; flex-direction: column;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang HK", "Microsoft JhengHei", sans-serif;
+  }
+  #metre-chat-panel.open { display: flex; }
+  #metre-chat-header { background: var(--metre); color: #fff; padding: 14px 16px; font-weight: 600; }
+  #metre-chat-header small { display: block; font-weight: 400; opacity: .8; margin-top: 2px; }
+  #metre-chat-log { flex: 1; overflow-y: auto; padding: 14px; background: #f7f7f8; }
+  .metre-msg { max-width: 85%; padding: 9px 12px; border-radius: 12px; margin-bottom: 9px; line-height: 1.45; white-space: pre-wrap; font-size: 14px; }
+  .metre-msg.bot { background: #fff; border: 1px solid #e5e5e5; }
+  .metre-msg.user { background: var(--metre); color: #fff; margin-left: auto; }
+  .metre-msg.error { background: #fee2e2; color: #991b1b; }
+  #metre-chat-form { display: flex; gap: 8px; padding: 10px; border-top: 1px solid #eee; background: #fff; }
+  #metre-chat-input { flex: 1; border: 1px solid #ddd; border-radius: 999px; padding: 10px 14px; font-size: 14px; outline: none; }
+  #metre-chat-send { border: 0; border-radius: 999px; padding: 10px 16px; background: var(--accent); color: #111; font-weight: 600; cursor: pointer; }
+</style>
+</head>
+<body>
+  <!-- Paste this button + panel before </body> on metre.hk -->
+  <button id="metre-chat-launcher" aria-label="Chat with Metre">💬</button>
+  <div id="metre-chat-panel" role="dialog" aria-label="Metre customer service">
+    <div id="metre-chat-header">一米通客服<small>Metre Customer Service · AI assistant</small></div>
+    <div id="metre-chat-log"></div>
+    <form id="metre-chat-form">
+      <input id="metre-chat-input" autocomplete="off" placeholder="輸入你的問題… / Type your question…" />
+      <button id="metre-chat-send" type="submit">傳送</button>
+    </form>
+  </div>
+
+<script>
+(function () {
+  var API = "https://customer-service-ai-tg.hheylau.workers.dev/chat";
+  var panel = document.getElementById("metre-chat-panel");
+  var log = document.getElementById("metre-chat-log");
+  var form = document.getElementById("metre-chat-form");
+  var input = document.getElementById("metre-chat-input");
+  var sessionId = "web-" + Math.random().toString(36).slice(2) + "-" + Date.now();
+
+  document.getElementById("metre-chat-launcher").addEventListener("click", function () {
+    panel.classList.toggle("open");
+    if (panel.classList.contains("open") && !log.dataset.greeted) {
+      log.dataset.greeted = "1";
+      add("bot", "你好！我係一米通客服助理，可以幫你查詢 MetreTag、MetrePoint、App 使用、收費、安裝、條款同私隱等問題。請問有咩可以幫你？");
+    }
+  });
+
+  function add(who, text, cls) {
+    var div = document.createElement("div");
+    div.className = "metre-msg " + who + (cls ? " " + cls : "");
+    div.textContent = text;
+    log.appendChild(div);
+    log.scrollTop = log.scrollHeight;
+  }
+
+  form.addEventListener("submit", function (e) {
+    e.preventDefault();
+    var text = input.value.trim();
+    if (!text) return;
+    add("user", text);
+    input.value = "";
+    add("bot", "對方正在輸入…");
+    fetch(API, {
+      method: "POST",
+      headers: { "Content-Type": "application/json; charset=utf-8" },
+      body: JSON.stringify({ message: text, sessionId: sessionId }),
+    })
+      .then(function (r) { return r.json(); })
+      .then(function (d) {
+        log.removeChild(log.lastElementChild);
+        if (d.reply) add("bot", d.reply);
+        else add("bot", "抱歉，暫時未能處理你的查詢，請稍後再試。", "error");
+      })
+      .catch(function () {
+        log.removeChild(log.lastElementChild);
+        add("bot", "網絡錯誤，請稍後再試。", "error");
+      });
+  });
+})();
+</script>
+</body>
+</html>

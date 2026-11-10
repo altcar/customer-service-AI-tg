@@ -1,0 +1,12 @@
+{
+  "name": "customer-service-ai-tg",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Metre (一米通) customer-service AI — Telegram bot + web chat, RAG over a bundled knowledge file, Iceman Contributor Free via OpenCode Go.",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "build:rag": "python build_rag.py"
+  }
+}

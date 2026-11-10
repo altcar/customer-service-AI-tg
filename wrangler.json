@@ -1,0 +1,14 @@
+{
+  "name": "customer-service-ai-tg",
+  "main": "src/index.js",
+  "compatibility_date": "2026-11-10",
+  "workers_dev": true,
+  "vars": {
+    "MIN_WORDS": "100",
+    "RAG_TOP_K": "5"
+  },
+  "observability": {
+    "enabled": true,
+    "head_sampling_rate": 1
+  }
+}
