@@ -1,0 +1,85 @@
+--- page 1 ---
+ 
+ 
+Metre App Terms of Use 
+Please read these Terms of Use ("Terms of Use") carefully. By downloading, accessing, 
+or using this mobile application ("Metre App") operated by METRE HONG KONG LIMITED 
+("Metre" , "we" , or "us") and accessing the content, information, and services available 
+through the Metre App, you agree to be bound by these Terms of Use. These Terms of 
+Use are to be read together with the Conditions of Issue of MetreTag published by Metre 
+(as amended from time to time) and posted on our official website at www.metre.hk. 
+Metre reserves the right to amend these Terms of Use at any time by publishing updated 
+terms within the Metre App or on our website. Your continued use of the Metre App 
+following any such amendments constitutes your agreement to be bound by the 
+updated Terms of Use. 
+User Eligibility and Account Registration 
+To access certain features of the Metre App, you may be required to register for an 
+account. When registering, you agree to provide accurate, current, and complete 
+information as prompted, and to promptly update such information to keep it accurate, 
+current, and complete. You are solely responsible for maintaining the confidentiality of 
+your account credentials and for all activities that occur under your account. You agree 
+to notify Metre immediately of any unauthorized use of your account or any other 
+breach of security. Metre shall not be liable for any loss or damage arising from your 
+failure to comply with these obligations. 
+Proprietary Content 
+The content, software, interface designs, information, and materials contained in or 
+rendered by the Metre App are proprietary in nature and are owned by Metre. 
+Intellectual Property Rights 
+The trademarks, logos, copyrights, software code, UI design, patents, and all other 
+intellectual property rights in the content, features, or materials available on or through 
+the Metre App are owned by Metre or its licensors. No part of the content, code, or 
+information available on or through the Metre App may be modified, reverse-
+engineered, reproduced, stored in a retrieval system, transmitted, copied, distributed, 
+or used in any other way without the prior written consent of Metre or the relevant 
+intellectual property owner. 
+No Warranties and Limitation of Liability 
+
+--- page 2 ---
+The Metre App and all content, software functions, and services provided through it are 
+offered on an "as is" and "as available" basis. Metre makes no express or implied 
+warranties, representations, or endorsements whatsoever regarding the Metre App, its 
+compatibility with your mobile device, or the continuity of its services. Metre does not 
+warrant that the Metre App will be uninterrupted, error-free, or completely free of 
+software bugs or security vulnerabilities. You are solely responsible for providing 
+adequate security and backup for your mobile device and data. Metre makes no 
+warranty regarding the reliability, functionality, availability, accuracy, or fitness for a 
+particular purpose of the Metre App or its real-time parking access and billing features. 
+To the maximum extent permitted by Hong Kong law, in no event shall Metre or its 
+affiliates be held liable for any claim, loss, damage, costs, or expenses (whether direct, 
+indirect, special, or consequential) arising out of or in connection with the downloading, 
+installation, or use of the Metre App, whether in contract, tort (including negligence), or 
+otherwise, even if Metre has been advised of the possibility of such damages. Nothing in 
+these Terms shall exclude or limit any liability that cannot be excluded or limited under 
+applicable Hong Kong law. 
+Provision of Information and Device Data 
+Depending on the service requested, Metre may require you to provide information that 
+enables us to manage your account and deliver services, such as your email address, 
+On-Loan MetreTag ID, mobile device identifiers (identifierForVendor / Android ID), push 
+notification tokens, and parking session location logs. For full details on how we collect, 
+use, retain, and protect your personal data, please refer to our Personal Information 
+Collection Statement (PICS) and Privacy Policy Statement, accessible in the Metre App 
+settings and at www.metre.hk. 
+External Links and Third-Party Portals 
+The Metre App may provide links or deep-links to external websites or third-party 
+services (such as mobile banking or FPS payment interfaces). When navigating away 
+from the Metre App to external platforms, you are subject to the privacy policies and 
+terms of use of those respective third-party providers. 
+Updates to the Service 
+The features, user interfaces, and functionality of the Metre App describe our current 
+practice. Metre reserves the right to modify, update, add, or discontinue features of the 
+Metre App at any time without prior notice. 
+Governing Language 
+These Terms of Use may be translated into Chinese for reference purposes. If there is 
+any inconsistency or discrepancy between the English version and any Chinese 
+translation, the English version shall prevail. 
+--- page 3 ---
+Governing Law and Jurisdiction 
+These Terms of Use shall be governed by, and construed in accordance with, the laws of 
+the Hong Kong Special Administrative Region. You and Metre irrevocably agree that the 
+courts of Hong Kong shall have exclusive jurisdiction to settle any dispute or claim 
+arising out of or in connection with these Terms of Use. 
+Rights of Third Parties 
+No person other than you and METRE HONG KONG LIMITED shall have any right to 
+enforce or rely on any provision of these Terms of Use under the Contracts (Rights of 
+Third Parties) Ordinance (Cap. 623) or otherwise. 
+ 

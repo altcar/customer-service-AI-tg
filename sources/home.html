@@ -1,0 +1,310 @@
+﻿<!DOCTYPE html>
+<html lang="zh-Hant-HK">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- SEO -->
+    <title data-i18n="index.meta.title">車主 | 一米通</title>
+    <meta name="description" data-i18n-attr-content="index.meta.description" content="一米通為車主提供無感出入閘。駛近閘桿自動升起，無需手動操作，輕鬆實現一米即通。">
+    <link rel="canonical" href="https://metre.hk/zh-hant-hk/" />
+
+    <!-- Alternate languages -->
+    <link rel="alternate" hreflang="en" href="https://metre.hk/en/" />
+    <link rel="alternate" hreflang="zh-Hant-HK" href="https://metre.hk/zh-hant-hk/" />
+    <link rel="alternate" hreflang="zh-Hant-TW" href="https://metre.hk/zh-hant-tw/" />
+    <link rel="alternate" hreflang="zh-Hans" href="https://metre.hk/zh-hans/" />
+    <link rel="alternate" hreflang="x-default" href="https://metre.hk/en/" />
+
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" sizes="48x48" href="/assets/img/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon_32.png">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="/assets/css/style.css">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="車主 | 一米通">
+    <meta property="og:description" content="駛近 MetrePoint 閘桿即自動升起，全程無需操作，一米即通。">
+    <meta property="og:url" content="https://metre.hk/zh-hant-hk/">
+    <meta property="og:site_name" content="一米通">
+    <meta property="og:locale" content="zh_HK">
+    <meta property="og:locale:alternate" content="en_GB">
+    <meta property="og:locale:alternate" content="zh_TW">
+    <meta property="og:locale:alternate" content="zh_CN">
+    <script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Metre",
+    "alternateName": [
+      "一米通"
+    ],
+    "url": "https://metre.hk"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Metre",
+    "alternateName": [
+      "一米通"
+    ],
+    "url": "https://metre.hk",
+    "logo": "https://metre.hk/assets/img/logo.png"
+  }
+]
+    </script>
+</head>
+<body data-page="index">
+
+    <header>
+        <div class="header-left">
+            <a href="/zh-hant-hk/">
+                <img src="/assets/img/blacked_whiteBg.png" class="header-logo"
+                     alt="一米通 Logo" data-i18n-attr-alt="common.logo.alt">
+            </a>
+        </div>
+
+        <nav aria-label="主導覽">
+            <ul>
+                <li><a href="/zh-hant-hk/" class="active i18n" data-i18n="common.nav.driver">車主</a></li>
+                <li><a href="/zh-hant-hk/business" class="i18n" data-i18n="common.nav.business">商戶</a></li>
+            </ul>
+        </nav>
+
+        <div class="header-right">
+            <select class="btn-lang lang-select" data-lang-switcher
+                    aria-label="選擇語言"
+                    data-i18n-attr-aria-label="common.lang.aria">
+                <option value="en">English</option>
+                <option value="zh-Hant-HK" selected>繁體·香港</option>
+                <option value="zh-Hant-TW">繁體·台灣</option>
+                <option value="zh-Hans">简体中文</option>
+            </select>
+        </div>
+    </header>
+
+    <section class="hero">
+            <div class="hero-corner-text">MetreTag</div>
+
+            <h1>
+                <span class="hero-title-large" data-i18n="index.hero.title">車主無感出入閘</span>
+            </h1>
+            <p class="hero-subtitle" data-i18n-html="index.hero.subtitle">駛近 MetrePoint，閘桿將自動升起，無需操作</p>
+            <a href="https://console.metre.hk" class="cta-button hero-main-cta" data-i18n="index.hero.cta">立即出 Tag</a>
+
+            <div class="hero-image-placeholder">
+                <div class="switcher-item active">
+                    <img src="/assets/img/tag_1.jpeg" class="hero-tag-image"
+                         alt="已安裝在車內的 MetreTag UWB 裝置" data-i18n-attr-alt="index.hero.img1Alt">
+                </div>
+                <div class="switcher-item">
+                    <img src="/assets/img/tag_2.jpeg" class="hero-tag-image"
+                         alt="MetrePoint 自動升起閘桿" data-i18n-attr-alt="index.hero.img2Alt">
+                </div>
+            </div>
+
+            <a href="https://console.metre.hk/api/guide/zh-Hant-HK"
+               id="installationGuideLink"
+               target="_blank"
+               rel="noopener noreferrer"
+               class="hero-guide-link"
+               data-i18n="index.hero.guide">查看 MetreTag 安裝指南</a>
+        </section>
+
+        <!-- METREPOINT COVERAGE SEARCH -->
+        <section class="coverage-section">
+            <div class="coverage-container">
+                <img src="/assets/img/MetrePoint_icon.png" alt="MetrePoint Icon" class="coverage-icon">
+
+                <h2 class="coverage-title" data-i18n="index.coverage.title">搜尋 MetrePoint</h2>
+
+                <div class="coverage-search-box">
+                    <input type="text" id="coverageSearchInput" class="coverage-search-input"
+                           placeholder="輸入停車場名稱、地區或地標…"
+                           data-i18n-placeholder="index.coverage.placeholder"
+                           aria-label="輸入停車場名稱、地區或地標…"
+                           data-i18n-attr-aria-label="index.coverage.placeholder">
+                    <button id="coverageSearchBtn" class="coverage-search-btn" data-i18n="index.coverage.button">搜尋</button>
+                </div>
+
+                <div class="coverage-tags">
+                    <a href="#" class="coverage-tag" data-quick-search="中環" data-quick-search-en="Central" data-i18n="index.coverage.tag.central">中環</a>
+                    <a href="#" class="coverage-tag" data-quick-search="尖沙咀" data-quick-search-en="Tsim Sha Tsui" data-i18n="index.coverage.tag.tst">尖沙咀</a>
+                    <a href="#" class="coverage-tag" data-quick-search="灣仔" data-quick-search-en="Wan Chai" data-i18n="index.coverage.tag.wanchai">灣仔</a>
+                    <a href="#" class="coverage-tag" data-quick-search="觀塘" data-quick-search-en="Kwun Tong" data-i18n="index.coverage.tag.kwuntong">觀塘</a>
+                    <a href="#" class="coverage-tag" data-quick-search="旺角" data-quick-search-en="Mong Kok" data-i18n="index.coverage.tag.mongkok">旺角</a>
+                </div>
+
+                <!-- Results list (hidden until a search runs) -->
+                <div id="coverageResultsWrapper" class="coverage-results-wrapper" hidden>
+                    <div class="coverage-results-header">
+                        <span class="coverage-results-col cp-name" data-i18n="index.coverage.col.name">停車場</span>
+                        <span class="coverage-results-col cp-region" data-i18n="index.coverage.col.region">區域</span>
+                        <span class="coverage-results-col cp-district" data-i18n="index.coverage.col.district">分區</span>
+                        <span class="coverage-results-col cp-category" data-i18n="index.coverage.col.category">類別</span>
+                        <span class="coverage-results-col cp-address" data-i18n="index.coverage.col.address">地址</span>
+                    </div>
+                    <div id="coverageResultsList" class="coverage-results-list"></div>
+                    <p id="coverageNoResults" class="coverage-no-results" hidden data-i18n="index.coverage.noResults">搵唔到相關停車場，請試其他關鍵字。</p>
+                    <p id="coverageSearching" class="coverage-no-results" hidden data-i18n="index.coverage.searching">搜尋中…</p>
+                </div>
+
+                <!-- Detail panel (shown after clicking a result row) -->
+                <div id="coverageDetailPanel" class="coverage-detail-panel" hidden>
+                    <button id="coverageDetailBack" class="coverage-detail-back" data-i18n="index.coverage.back">← 返回搜尋結果</button>
+                    <div id="coverageDetailContent" class="coverage-detail-content"></div>
+                </div>
+            </div>
+        </section>
+
+        <section class="feature-rows-section">
+            <div class="feature-rows-container">
+
+                <div class="feature-section-header">
+                    <span class="feature-eyebrow" data-i18n="index.features.eyebrow">超寬頻 (UWB)</span>
+                    <h2 class="feature-section-title" data-i18n="index.features.title">不止快狠準</h2>
+                </div>
+
+                <div class="feature-rows-wrapper">
+
+                    <div class="feature-row">
+                        <div class="feature-text">
+                            <h2 data-i18n="index.features.privacy.title">保障你的私隱</h2>
+                            <p data-i18n-html="index.features.privacy.body">添加白名單只需提供 Metre ID，無需車牌。</p>
+                        </div>
+                        <div class="feature-image-wrapper bg-transparent tall-wrapper">
+                            <img src="/assets/img/priv.png" class="feature-wide-image" style="object-fit: contain;"
+                                 alt="一米通 App 私隱設定介面" data-i18n-attr-alt="index.features.privacy.imgAlt">
+                        </div>
+                    </div>
+
+                    <div class="dashboard-section-wrapper">
+                        <div class="dashboard-cards-header">
+                            <h2 data-i18n="index.features.dashboard.title">全方位掌握泊車動態</h2>
+                            <p data-i18n="index.features.dashboard.subtitle">透過一米通 App，所有泊車資訊一目了然：</p>
+                        </div>
+
+                        <div class="dashboard-cards-container">
+                            <div class="dashboard-card">
+                                <div class="dashboard-card-text">
+                                    <h3 data-i18n="index.features.card1.title">即時狀態</h3>
+                                    <p data-i18n="index.features.card1.body">隨時查看已泊時間及累積泊車費用。</p>
+                                </div>
+                                <img src="/assets/img/app_demo_1.png"
+                                     alt="即時狀態" data-i18n-attr-alt="index.features.card1.title">
+                            </div>
+
+                            <div class="dashboard-card">
+                                <div class="dashboard-card-text">
+                                    <h3 data-i18n="index.features.card2.title">收費透明</h3>
+                                    <p data-i18n="index.features.card2.body">清晰列明各停車場的收費計算規則。</p>
+                                </div>
+                                <img src="/assets/img/app_demo_2.png"
+                                     alt="收費透明" data-i18n-attr-alt="index.features.card2.title">
+                            </div>
+
+                            <div class="dashboard-card">
+                                <div class="dashboard-card-text">
+                                    <h3 data-i18n="index.features.card3.title">詳細紀錄</h3>
+                                    <p data-i18n="index.features.card3.body">完整保存過往的泊車與付款紀錄，方便查閱。</p>
+                                </div>
+                                <img src="/assets/img/app_demo_3.png"
+                                     alt="詳細紀錄" data-i18n-attr-alt="index.features.card3.title">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <section class="hero secondary-hero">
+            <h2>
+                <span class="hero-title-large" data-i18n="index.payment.title">隨時隨地 App 內以 FPS 付費</span>
+            </h2>
+
+            <img src="/assets/img/full_quota.png" class="secondary-hero-image"
+                 alt="App 內付費畫面" data-i18n-attr-alt="index.payment.imgAlt">
+
+            <ul class="hero-subtitle list-style">
+                <li data-i18n="index.payment.li1">無感出閘付款僅有 HK$100 額度。</li>
+                <li data-i18n="index.payment.li2">累計多於 HK$100 需出閘前或出閘時付款。</li>
+                <li data-i18n="index.payment.li3">無論如何，你都可以先核實，後付款。</li>
+                <li data-i18n="index.payment.li4">所有未繳費用必須於 7 天內完成支付。</li>
+            </ul>
+
+            <a href="https://console.metre.hk" class="cta-button" style="margin-top: 1.5rem;" data-i18n="index.payment.cta">立即下載 App 以 HK$100 按金出 Tag</a>
+            <small class="hero-disclaimer" data-i18n="index.payment.disclaimer">*MetreTag 之按金與此限額無關，且不作任何付款用途。</small>
+        </section>
+
+        <section class="faq-section">
+            <h2 class="faq-title" data-i18n="index.faq.title">常見問題</h2>
+            <div class="faq-container">
+                <details class="faq-item">
+                    <summary data-i18n="index.faq.q1">如何退還按金？</summary>
+                    <div class="faq-content" data-i18n="index.faq.a1">當你退還 MetreTag 時，工程師會檢查是否存在惡意破壞情況。如無，按金將沿原路退回。</div>
+                </details>
+                <details class="faq-item">
+                    <summary data-i18n="index.faq.q2">MetreTag 如何避免盜刷？</summary>
+                    <div class="faq-content" data-i18n="index.faq.a2">MetreTag 使用超寬頻作為付款依據，其所採用的 IEEE 802.15.4z 標準中引入的一個關鍵特性為加擾時間戳序列（STS）。透過 STS 安全機制，可以防止惡意裝置透過注入訊號能量進行不同形式的攻擊，從而確保付款真實性。</div>
+                </details>
+                <details class="faq-item">
+                    <summary data-i18n="index.faq.q3">MetreTag 是否準確？</summary>
+                    <div class="faq-content" data-i18n="index.faq.a3">超寬頻帶來的厘米級空間算法，避免了在附近駛過誤觸的尷尬情況。</div>
+                </details>
+                <details class="faq-item">
+                    <summary data-i18n="index.faq.q4">MetreTag 如何供電？</summary>
+                    <div class="faq-content" data-i18n="index.faq.a4">與一般車 cam 一樣，以 5 伏供電即可。</div>
+                </details>
+                <details class="faq-item">
+                    <summary data-i18n="index.faq.q5">如果我的手機沒電了，還能自動扣款嗎？</summary>
+                    <div class="faq-content" data-i18n="index.faq.a5">可以。MetreTag 是獨立運作的硬件裝置，只要裝置安裝在車內，即使手機無電或不在身邊，MetrePoint 仍能識別 MetreTag 並自動完成扣款。</div>
+                </details>
+                <details class="faq-item">
+                    <summary data-i18n="index.faq.q6">我的行蹤數據會被外洩嗎？</summary>
+                    <div class="faq-content" data-i18n="index.faq.a6">絕對不會。我們採用最高規格的端到端加密技術，你的進出紀錄僅用於計費用途。我們不會收集、追蹤或向任何第三方出售你的位置數據。</div>
+                </details>
+                <details class="faq-item">
+                    <summary data-i18n="index.faq.q7">支援哪些付款方式？</summary>
+                    <div class="faq-content" data-i18n="index.faq.a7">目前只支援 FPS 付款方式。期後將會支援其他自動扣款方式，敬請期待。</div>
+                </details>
+            </div>
+        </section>
+
+    <footer class="footer">
+        <div class="footer-socials">
+            <a href="https://www.facebook.com/metrehk" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" aria-hidden="true" focusable="false"><path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"/></svg></a>
+            <a href="https://www.instagram.com/metrehk" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" aria-hidden="true" focusable="false"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"/></svg></a>
+        </div>
+        <div class="footer-main">
+            <span class="copyright">
+                Copyright &copy; <span id="current-year"></span>
+                <span class="i18n" data-i18n="common.footer.copyright">一米通有限公司 保留一切權利。</span>
+            </span>
+            <span class="footer-links">
+                <a href="/zh-hant-hk/privacy" class="i18n" data-i18n="common.footer.privacy">私隱政策</a> |
+                <a href="/zh-hant-hk/terms" class="i18n" data-i18n="common.footer.terms">使用條款</a> |
+                <a href="/zh-hant-hk/contact" class="i18n" data-i18n="common.footer.contact">聯絡我們</a>
+            </span>
+        </div>
+
+        <div class="footer-locale">
+            <!-- <span data-i18n="common.footer.region">香港</span> -->
+            <nav class="footer-lang-links" aria-label="語言"
+                 data-i18n-attr-aria-label="common.lang.heading">
+                <a href="/en/" hreflang="en" lang="en">English</a>
+                <a href="/zh-hant-hk/" hreflang="zh-Hant-HK" lang="zh-Hant-HK" aria-current="true">繁體中文（香港）</a>
+                <a href="/zh-hant-tw/" hreflang="zh-Hant-TW" lang="zh-Hant-TW">繁體中文（台灣）</a>
+                <a href="/zh-hans/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a>
+            </nav>
+        </div>
+    </footer>
+
+    <script src="/assets/js/i18n.js" defer></script>
+    <script src="/assets/js/site.js" defer></script>
+    <script src="/assets/js/home.js" defer></script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a58545163bdd0015',t:'MTc5NDMxNTkzOA=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a58545163bdd0015',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

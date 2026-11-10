@@ -1,0 +1,509 @@
+--- page 1 ---
+Conditions of Issue of MetreTag  
+(Effective from 9 Aug 2026)       
+ 
+YOUR ATTENTION IS DRAWN TO CONDITION 10 AND THE PERSONAL INFORMATION 
+COLLECTION STATEMENT IN CONDITION 13 
+1. Conditions of Issue 
+These Conditions of Issue of MetreTag (these "Conditions of Issue") are effective from 9 
+Aug 2026 for all customers. 
+2. Introduction 
+2.1. These Conditions of Issue constitute a legally binding contract between you (our 
+customer) and us, METRE HONG KONG LIMITED (the issuer of the MetreTag and 
+operator of the Metre App). By ordering, activating, or using a MetreTag, or by using the 
+Metre App, you agree to be fully bound by these Conditions of Issue. 
+2.2. These Conditions of Issue set out our mutual rights and obligations. While they 
+govern the general use of the MetreTag and the Metre App, they may be complemented, 
+supplemented, or modified by specific terms and conditions applicable to particular 
+features or services that we may offer from time to time. 
+2.3. There are key terms used in these Conditions of Issue which are defined as follows: 
+(a) "Schedule of Fees and Guidelines" means the schedule of fees, deposits, 
+administrative charges, and guidelines published by us, Metre Hong Kong Limited, as 
+amended from time to time. The latest version can be accessed via the Metre App or on 
+our official website at www.metre.hk. 
+(b) "Service Provider" means any car park operator, property manager, access control 
+operator, or mobility service provider that utilizes the Metre system to record parking 
+sessions, grant vehicle access, or manage parking premises, and has been approved by 
+us. Service Providers will clearly display the Metre acceptance logo at their physical 
+locations, access barriers, or within online channels. 
+3. General 
+3.1. "On-Loan MetreTag" is a MetreTag which we lend to you and which we will require 
+you to pay a Deposit. Subject to Condition 10.2, you may return your On-Loan MetreTag 
+for a refund. 
+3.2. We operate the Metre system and will ensure that the system is operated with 
+reasonable care, skill, and diligence. The MetreTag functions to record your parking 
+sessions. If you discover any discrepancies regarding your recorded parking sessions or 
+
+--- page 2 ---
+parking fees in the Metre App, you should contact us (see Condition 20) as soon as 
+possible. 
+3.3. The MetreTag enables participating Service Providers displaying the Metre 
+acceptance logo to automatically record your entry, exit, and parking session duration. 
+You agree to settle all incurred parking fees resulting from recorded sessions through 
+the Metre App, subject to any transaction rules or limits we may notify you of from time 
+to time. 
+3.4. Some Service Providers may use your MetreTag strictly for premises access control 
+without immediately concluding or displaying a completed parking session. 
+3.5. A Service Provider can be identified by their clear display of the Metre acceptance 
+logo, whether online, at physical locations, or otherwise. Please contact the Service 
+Provider or us if a Service Provider fails to recognize your MetreTag for session recording. 
+3.6. Service Providers are responsible for all aspects of the physical parking facilities 
+and services they provide. In using their services and facilities, you should abide by their 
+rules, regulations, and bylaws. We have no responsibility for the physical facilities or 
+parking services provided by Service Providers, and you should direct any enquiries 
+relating to facility condition or management to the relevant Service Provider. 
+3.7. Under normal circumstances, we will make reasonable efforts to ensure that the 
+Metre system is operating. However, we cannot guarantee that a Service Provider's 
+hardware will successfully scan or record a MetreTag session at all times, as this 
+depends on the Service Provider's own systems, as well as network, electrical, climatic, 
+and other conditions beyond our control. Subject to Condition 8.4, we shall not be 
+responsible for any indirect, consequential, or special loss or damage incurred by you 
+as a result of or in connection with your use of the MetreTag or the Metre App, including 
+but not limited to loss of profit, loss of revenue, loss of business, or loss of anticipated 
+savings. For the avoidance of doubt, nothing in these Conditions of Issue shall exclude 
+or restrict our liability for direct loss or damage caused by our wilful default or gross 
+negligence. 
+3.8. We may charge a reasonable fee for the provision of the MetreTag, Metre App, and 
+related services. Any such fees will be published in our Schedule of Fees and 
+Guidelines. 
+3.9. If any provision of these Conditions of Issue is held to be invalid, illegal, or 
+unenforceable by any court of competent jurisdiction, such provision shall be severed 
+from these Conditions of Issue to the extent of such invalidity, illegality, or 
+unenforceability, and the remaining provisions shall continue in full force and effect. 
+3.10. These Conditions of Issue, together with any supplemental terms and conditions 
+issued pursuant to Condition 2.2, constitute the entire agreement between you and us 
+--- page 3 ---
+with respect to the use of the MetreTag and the Metre App, and supersede all prior or 
+contemporaneous representations, understandings, or agreements, whether written or 
+oral, relating to the subject matter hereof. 
+3.11. No failure or delay by us in exercising any right, power, or remedy under these 
+Conditions of Issue shall operate as a waiver of that right, power, or remedy, nor shall 
+any single or partial exercise of any such right, power, or remedy preclude any other or 
+further exercise thereof or the exercise of any other right, power, or remedy. 
+4. Obtaining and Using your MetreTag; Registering for the Metre App 
+4.1. You must be at least 18 years of age to order a MetreTag, create a Metre App 
+account, or use the Metre service. By ordering a MetreTag or registering for the Metre 
+App, you represent and warrant that you are at least 18 years old and have the legal 
+capacity to enter into these Conditions of Issue. 
+4.2. To use the Metre service, you must order an On-Loan MetreTag directly through the 
+Metre App. Upon completion of your order and payment of any required Deposit and 
+delivery fee, we will dispatch and deliver the MetreTag to your designated shipping 
+address. By activating or using the MetreTag, you agree to be bound by these Conditions 
+of Issue. 
+4.3. Delivery, Risk of Loss, and Non-Delivery   
+(a) Risk and Delivery: Risk of loss or damage to the On-Loan MetreTag shall pass to you 
+only upon successful physical delivery to your designated address or upon sign-
+off/acknowledgment of receipt from the designated courier or postal service. 
+(b) Transit Damage or Loss in Transit: If the MetreTag is lost, delayed, or physically 
+damaged during transit prior to successful delivery, we will, upon prompt notification 
+and verification, arrange a replacement MetreTag to be dispatched to you free of charge. 
+We shall handle all claims, inquiries, and compensation disputes directly with the 
+relevant courier or postal service provider. 
+(c) Failed Delivery and Loss Due to User Error: 
+(i) Returned Shipments: If a MetreTag is returned to us intact due to an 
+incorrect/incomplete address or failure to collect, you will be required to pay the 
+Redelivery Fee (as set out in the Schedule of Fees and Guidelines) prior to re-delivery. 
+(ii) Lost Shipments: If a MetreTag is permanently lost or unrecoverable as a direct result 
+of an incorrect address or invalid delivery information provided by you, the MetreTag 
+shall be deemed lost. We reserve the right to forfeit your Deposit to cover the cost of the 
+lost hardware. To receive a new MetreTag, you will be required to submit a new order and 
+deposit via the Metre App.  
+--- page 4 ---
+4.4. The MetreTag is non-transferable. You must not sell, lend, or transfer your MetreTag 
+to any third party without our prior written consent. The registered holder of the Metre 
+App account associated with the MetreTag will remain solely responsible for all parking 
+sessions and fees recorded by that MetreTag. 
+4.5. All On-Loan MetreTags remain our physical property at all times. We retain the right 
+to manage, update, or deactivate the software, firmware, and data loaded on your 
+MetreTag, as well as the right to recall or recover the MetreTag, at our sole discretion. 
+4.6. A "valid MetreTag" means a genuine MetreTag: 
+(a) which has been lawfully obtained directly from us via the Metre App; 
+(b) which is successfully bound to an active Metre App account; and 
+(c) which has not been damaged, tampered with, altered, or physically compromised. 
+4.7. To access parking services and settle incurred parking fees, you must maintain a 
+valid registration. 
+4.8. If you suspect that your MetreTag or Metre App account has been lost, stolen, or 
+used for unauthorized parking sessions, you must immediately report it to us through 
+the Metre App or via our customer support (see Condition 20). 
+4.9. Upon receiving notification of a lost, stolen, or compromised MetreTag, we will 
+deactivate the MetreTag as soon as reasonably practicable. You will remain responsible 
+for all parking fees incurred and recorded by the MetreTag prior to the completion of the 
+deactivation process. 
+4.10. To protect your account security, we may perform additional user authentication 
+procedures within the Metre App before processing high-value transactions or adjusting 
+critical account settings. 
+5. Paying a Deposit for Your On-Loan MetreTag 
+5.1. When you order an On-Loan MetreTag through the Metre App, you will be required to 
+pay a security deposit ("Deposit") via your selected payment method in the Metre App 
+prior to dispatch and delivery. 
+5.2. We will hold the Deposit as security for the On-Loan MetreTag throughout the 
+duration of your use of the Metre services. 
+5.3. The amount of the Deposit shall be determined and announced by us in the Metre 
+App or our Schedule of Fees and Guidelines from time to time. The Deposit serves to 
+cover potential loss, hardware damage, or non-return of the On-Loan MetreTag, as well 
+as outstanding parking fees or administrative costs associated with your account, 
+subject to Condition 10.2. 
+--- page 5 ---
+6. Parking Fee Settlement and Credit Buffer 
+6.1. All incurred parking fees and charges resulting from recorded parking sessions 
+must be paid manually by you within the Metre App using Faster Payment System (FPS) 
+or other manual payment methods approved by us from time to time. 
+6.2. Seamless Exit Buffer: To enable seamless barrier clearance, we grant you an 
+accumulated unpaid parking fee buffer limit of up to HK$100 (or such other limit as we 
+may announce from time to time). 
+6.3. As long as your total outstanding, unpaid parking fees do not exceed the HK$100 
+buffer limit, you are permitted to exit participating parking facilities immediately upon 
+session completion without paying on the spot at the exit barrier. 
+6.4. You are required to settle all outstanding parking fees via FPS in the Metre App in a 
+timely manner. If a new or ongoing parking session causes your total accumulated 
+unpaid balance to equal or exceed HK$100, you will not be eligible for seamless exit, 
+and your MetreTag access may be temporarily restricted until all pending balances are 
+fully settled via FPS in the Metre App. 
+6.5. We reserve the right to adjust, suspend, or revoke your buffer limit, or apply 
+reasonable administrative late payment charges as published in our Schedule of Fees 
+and Guidelines. Save where such adjustment, suspension, or revocation is triggered by 
+your non-payment, default, or breach of these Conditions of Issue, we will provide you 
+with at least 7 days' prior notice via the Metre App before any reduction or revocation of 
+your buffer limit takes effect. 
+7. Your Obligations in Using your MetreTag and the Metre App 
+7.1. You must take good care of your On-Loan MetreTag and exercise reasonable 
+security precautions to prevent physical damage, loss, tampering, or unauthorized use. 
+You must also maintain the security of your Metre App account, including safeguarding 
+your account login credentials and email verification details. If an On-Loan MetreTag is 
+returned to us damaged or altered (including through bending, cutting, breaking, 
+opening the casing, graffiti, or unauthorized attachments), we reserve the right to forfeit 
+your Deposit or charge a reasonable damage fee as set out in the Schedule of Fees and 
+Guidelines. 
+7.2. You must not use, or allow anyone else to use, your MetreTag or Metre App account 
+for any unlawful, fraudulent, or illegal purposes. 
+7.3. You should only present or utilize your MetreTag at parking facilities clearly 
+displaying the Metre acceptance logo. Attempting to use the MetreTag with 
+unauthorized or incompatible reading equipment may result in hardware failure, for 
+which we bear no responsibility. 
+--- page 6 ---
+7.4. You must not tamper with, reverse-engineer, modify, or attempt to extract data or 
+firmware from the MetreTag (including hardware security elements, cryptographic keys, 
+or BLE/UWB transceivers). You must not exploit or interfere with the Metre App or 
+disrupt other users, and specifically, you must not use automated systems, scripts, or 
+bots to access or manipulate parking session records or FPS payment workflows. 
+Tampering with the MetreTag or its transmitted data may constitute a criminal offence 
+under the Crimes Ordinance (Cap. 200), including but not limited to section 161 thereof 
+(Access to Computer with Criminal or Dishonest Intent). 
+7.5. We reserve the right to recover all reasonable costs, expenses, legal fees, losses, 
+and damages incurred by us as a result of you altering, interfering with, or allowing any 
+third party to alter or interfere with the hardware, software, or session data of your 
+MetreTag or Metre App account. 
+7.6. You agree to fully cooperate with us and, where applicable, law enforcement 
+agencies in investigating lost, stolen, or tampered MetreTags, suspicious parking 
+transactions, or non-payment of accumulated parking balances exceeding the buffer 
+limit referred to in Condition 6.2. 
+7.7. Our staff and authorized representatives of participating parking Service Providers 
+shall have the right to inspect your MetreTag and verify its associated active session 
+data in the Metre App at any reasonable time within participating parking premises. 
+8. Proper Use of your MetreTag and the Metre App 
+8.1. You must install, mount, power, and operate your MetreTag strictly in accordance 
+with our instructions and guidelines. You shall only use power cables, extension cables, 
+and adapters supplied directly by us or ordered through the Metre App. The use of any 
+unauthorized third-party cables, modified wiring, or non-approved power adapters 
+constitutes improper use, and any resulting hardware damage or failure shall be your 
+sole responsibility. Furthermore, placing multiple signal-emitting transceivers, metallic 
+obstructions, or other radio-frequency (RF) interfering devices in close proximity to the 
+MetreTag may disrupt session detection and barrier communication. Any such 
+interference shall be at your own risk. We shall not be responsible for missed or 
+incorrectly recorded parking sessions, gate delays, or hardware failure caused by 
+improper installation, unauthorized power accessories, or external signal interference. 
+8.2. We shall not be responsible for any personal injury, vehicular damage, or property 
+loss/damage resulting from your inappropriate, negligent, or unauthorized use of the 
+MetreTag, the Metre App, or parking entry/exit barriers. 
+8.3. You agree to indemnify, defend, and hold us harmless against all actions, 
+proceedings, liabilities, claims, losses, damages, and reasonable costs and expenses 
+(including reasonable legal fees) that we may incur or sustain arising out of or in 
+--- page 7 ---
+connection with any misuse, unauthorized modification, or illegal operation of your 
+MetreTag or Metre App account by you or any third party using your device, provided that 
+this indemnity shall not apply to the extent that such third-party access was caused by 
+a security vulnerability in the Metre App or Metre system that was within our reasonable 
+control. 
+8.4. Nothing in these Conditions of Issue shall exclude or restrict our liability for death 
+or personal injury resulting from our negligence, or liability for fraud or fraudulent 
+misrepresentation. 
+9. Malfunction 
+If your On-Loan MetreTag malfunctions due to no fault of yours, and you have not 
+damaged, opened, or tampered with it in any way: 
+(a) Reporting and Return: You should report the issue immediately through customer 
+support in the Metre App (see Condition 20) and return the malfunctioning MetreTag to 
+us in accordance with our return instructions. 
+(b) Replacement or Refund: Upon receiving and verifying that the MetreTag has suffered 
+a hardware or firmware failure not caused by user misuse, physical damage, or 
+tampering, we will, at your option: 
+(i) Dispatch a replacement On-Loan MetreTag to your designated shipping address 
+without charging an additional Deposit; or 
+(ii) Cancel your MetreTag order and refund your Deposit in full to your designated bank 
+account via FPS, subject to Condition 10.2. 
+(c) Outstanding Balances: A malfunctioning MetreTag does not relieve you of the 
+obligation to settle any valid, recorded parking fees incurred prior to the malfunction. 
+Any pending parking fees must be fully settled via FPS within the Metre App. 
+10. Inactive Accounts, Non-Payment, and Cancellation of MetreTag 
+10.1. Customer-Initiated Return & Cancellation 
+(a) You may cancel your Metre account and return your On-Loan MetreTag at any time by 
+initiating a return request in the Metre App and shipping the MetreTag back to our 
+designated address at your own expense. 
+(b) Upon our physical receipt and inspection of the returned On-Loan MetreTag—and 
+provided you have no outstanding, overdue parking balances—we will refund your 
+Deposit in full (less any applicable hardware damage fees set out in the Schedule of 
+Fees and Guidelines) via FPS to your designated bank account. 
+(c) Delivery charges paid when the MetreTag was originally shipped are strictly non-
+refundable. 
+--- page 8 ---
+10.2. Overdue Parking Fees Deemed Improper Use 
+(a) All parking fees recorded by your MetreTag must be settled via the Metre App in a 
+timely manner (and immediately for sessions exceeding the HK$100 threshold). 
+(b) Deemed Improper Use: Allowing any recorded parking fee or session balance to 
+remain unpaid for more than 7 days following the session date shall be strictly deemed 
+Improper Use and a material breach of these Conditions of Issue under Section 8. 
+(c) In the event of such Improper Use, we reserve the right, without prior notice, to: 
+(i) Immediately deactivate and invalidate your On-Loan MetreTag; 
+(ii) Deny your vehicle entry or exit clearance across all participating parking facilities; 
+(iii) Terminate your Metre App account; and 
+(iv) Full forfeiture of your Deposit as liquidated damages for contractual breach. The 
+parties acknowledge and agree that the Deposit represents a genuine pre-estimate of 
+the losses and costs that we would incur as a result of such breach, including but not 
+limited to administrative costs of account management, system resources consumed, 
+hardware depreciation, and the costs of investigating, processing, and recovering 
+outstanding parking balances. This forfeiture is without prejudice to our right to pursue 
+legal action or debt recovery for all outstanding parking balances and legal costs. 
+10.3. Inactive MetreTags and Invalidation 
+(a) Your On-Loan MetreTag is issued for active use. If a MetreTag records no parking 
+sessions or app activity for a continuous period of 12 months, we may deem the 
+MetreTag inactive and deactivate its wireless signals for system security. 
+(b) You may apply to reactivate an inactive MetreTag via the Metre App, subject to 
+identity verification and a reasonable Reactivation Fee as set out in our Schedule of 
+Fees and Guidelines. 
+(c) Failure to Return Inactive Tag: If a MetreTag remains inactive for more than 24 months 
+and you fail to return it upon our request, the On-Loan MetreTag will be permanently 
+canceled, and your Deposit will be forfeited to cover the cost of the unreturned 
+hardware. 
+10.4. Permanent Deactivation & Non-Transferability 
+(a) Once a MetreTag is canceled or invalidated due to non-payment, inactivity, or 
+breach, it cannot be reactivated or rebound to any Metre App account. 
+(b) Invalidated MetreTags must be returned to us by post immediately upon request. 
+10.5. Deceased Account Holders 
+--- page 9 ---
+In the event of an account holder's death, a legal personal representative may request 
+account closure and Deposit return by providing proof of death and legal capacity. 
+Provided all historical parking sessions were fully settled prior to death, any remaining 
+Deposit will be remitted to the deceased's estate via FPS. 
+11. Lost or Stolen MetreTag 
+11.1. Immediate Reporting: If your On-Loan MetreTag is lost, stolen, or compromised, 
+you must immediately report it via the Metre App or contact Customer Support (see 
+Condition 20) to freeze and disable the MetreTag. 
+11.2. Liability for Incurred Sessions: You shall remain responsible for all parking 
+sessions and fees recorded by your MetreTag up until the exact time your lost report is 
+successfully processed and confirmed in the Metre App ("Deactivation Time"). We shall 
+not be liable for any unauthorized parking fees incurred prior to the Deactivation Time. 
+11.3. Recovery and Reactivation: If you locate or recover a MetreTag that was previously 
+reported lost or stolen, you may apply to unfreeze and reactivate the device via the 
+Metre App. Reactivation is subject to identity verification, backend security validation, 
+and payment of a reasonable Reactivation Fee as set out in our Schedule of Fees and 
+Guidelines.  
+11.4. Deposit Forfeiture & Replacement: 
+(a) If an On-Loan MetreTag is lost or stolen and cannot be physically returned to us, your 
+original Deposit will be forfeited to cover the hardware replacement cost. 
+(b) To continue using the Metre service, you must order a replacement MetreTag via the 
+Metre App and pay a new Deposit. 
+12. Refunds and System Records 
+12.1. No Interest: Any eligible refund of a Deposit paid to you under these Conditions of 
+Issue will be remitted without interest. 
+12.2. Refund Processing via FPS: All authorized refunds (such as returned Deposit 
+balances upon account closure) will be remitted to your designated FPS bank account. 
+If a refund cannot be successfully transferred due to invalid user-provided account 
+details and remains uncollected for 12 months despite reasonable notice, the refund 
+claim shall lapse, and the funds will be forfeited. 
+12.3. System Records as Evidence: In determining whether a parking session occurred, 
+the duration of a parking session, or the status of a MetreTag, our server logs and system 
+transaction records shall serve as prima facie evidence, save in the case of manifest 
+technical or system error on our part. 
+--- page 10 ---
+12.4. Discharge of Liability: Upon your receipt and acceptance of any Deposit refund, 
+you agree to discharge us from any further claims or liabilities relating to the returned 
+On-Loan MetreTag or associated Metre App account. 
+13. Personal Information Collection Statement (PICS) in accordance with the 
+Personal Data (Privacy) Ordinance (Cap. 486) 
+13.1. General 
+The Personal Data (Privacy) Ordinance (the "Ordinance") governs the collection, 
+holding, processing, and use of your personal data and other information that we may 
+collect from time to time ("Data"). The Data shall include your account profile details, 
+delivery address, app usage records, and transactional/session records (meaning 
+parking entry/exit timestamps, location logs, and billing history) to the extent that such 
+records constitute personal data under the Ordinance. This Notice forms the basis 
+upon which we collect, hold, process, and use your Data to provide the MetreTag, Metre 
+App, and related parking settlement services to you. 
+13.2. Obligation to Provide Data 
+It is voluntary for you to provide your Data. However, if you choose not to provide the 
+requested Data, we may be unable to process your MetreTag order, deliver the On-Loan 
+MetreTag to your address, bind your MetreTag to your Metre App account, or provide 
+parking access and transaction services to you. 
+13.3. Direct Marketing 
+We intend to use your Data to send you direct marketing communications regarding our 
+products, services, special promotions, and offers relating to parking and mobility 
+services. 
+(a) Data Used: Your email address, and/or device identification tokens (for push 
+notifications). (Note: We do not collect or use your phone number for marketing or 
+account creation). 
+(b) Channels: In-app push notifications and email. 
+(c) Consent & Opt-Out: We will not use your Data for direct marketing without your 
+explicit consent. You may exercise your right to opt-out of direct marketing at any time, 
+free of charge, directly within the Metre App settings or by contacting our Data 
+Protection Officer. 
+13.4. Purpose of Collection 
+You agree that your Data may be collected, held, and used by us for the following 
+purposes: 
+--- page 11 ---
+(a) Processing your application for an On-Loan MetreTag, verifying your identity, and 
+shipping the MetreTag to your designated delivery address; 
+(b) Managing, operating, maintaining, and improving the Metre App, MetreTag wireless 
+session logs, and post-session billing/FPS settlement systems; 
+(c) Communicating with you regarding your account, transaction alerts, system 
+updates, and customer support inquiries; 
+(d) Investigating complaints, disputed parking session records, system malfunctions, or 
+suspected fraudulent activity/unauthorized tag usage; 
+(e) Collecting outstanding parking balances or debt recovery in the event of default or 
+contractual breach; 
+(f) Designing new mobility services or enhancing existing features provided by us and 
+our affiliates; and 
+(g) Complying with applicable laws, regulations, legal proceedings, or enforceable 
+governmental/regulatory requests in Hong Kong. 
+13.5. Transfer and Disclosure of Data 
+Your Data will be kept confidential by us. However, for the purposes set out in Condition 
+13.4, we may transfer or disclose your Data to the following parties (who owe a duty of 
+confidentiality to us): 
+(a) Service Providers & Contractors: Third-party vendors who provide administrative, 
+courier/logistics (for MetreTag shipping), cloud server hosting, data processing, FPS 
+payment gateway execution, debt collection, or IT support services in connection with 
+our operations; 
+(b) Parking Operators: Participating car park owners and operators displaying the Metre 
+acceptance logo, solely to the extent necessary to verify premises entry/exit, clear 
+barrier gates, or resolve session timing discrepancies; 
+(c) Affiliates: Our subsidiaries and direct holding company for internal operations and 
+service administration; and 
+(d) Legal & Regulatory Authorities: Law enforcement agencies, courts, or regulatory 
+bodies in Hong Kong where we are legally required to satisfy a binding disclosure 
+demand or court order. 
+We will strictly not sell, rent, or transfer your personal data to third parties for their own 
+direct marketing purposes. 
+13.6. Your Rights (Access and Correction) 
+Under the Ordinance, you have the right to: 
+--- page 12 ---
+(a) Check whether we hold Data about you and request access to such Data; 
+(b) Request us to correct any inaccurate Data relating to you; 
+(c) Ascertain our privacy policies and practices regarding personal data; and 
+(d) Request that we cease using your Data for direct marketing purposes at any time 
+without charge. 
+13.7. Data Access Requests 
+We reserve the right to charge a reasonable fee for processing any physical Data Access 
+Request under the Ordinance. Any request for access to or correction of Data, or for 
+information regarding our privacy practices, should be submitted in writing to: 
+Data Protection Officer METRE HONG KONG LIMITED  
+Flat 1229, Kai Fai House, Choi Wan (II) Estate, Kowloon, Hong Kong 
+Email: privacy@metre.hk 
+14. Session and Transaction Records 
+14.1. Access to Session History 
+(a) You may view your recent parking session records and transaction history directly 
+within the Metre App at any time without additional charge. 
+(b) Transaction records available in the Metre App include entry and exit timestamps, 
+parking duration, participating car park locations, and corresponding parking fee 
+charges settled via your linked payment method. 
+(c) You are responsible for regularly reviewing your session history in the Metre App. If 
+you discover any discrepancies regarding recorded parking duration or fee calculations, 
+you must notify us via the Metre App or customer support (see Condition 20) within 30 
+days of the relevant parking session date. 
+14.2. Retention and Confidentiality of Records 
+(a) All session logs and transaction records generated by your On-Loan MetreTag and the 
+Metre App will be securely maintained in our digital systems. 
+(b) We treat all session and billing data as confidential. Save for displaying records to 
+you within the Metre App, we will only disclose your transaction records to: 
+(i) Participating car park operators or managers displaying the Metre acceptance logo 
+(solely to the extent necessary to verify premises access, validate session timestamps, 
+or resolve disputed parking charges); 
+--- page 13 ---
+(ii) Our authorized third-party contractors, cloud infrastructure providers, and payment 
+processing partners (such as FPS execution gateways) who are bound by strict 
+obligations of confidentiality and provide essential services for our operations; 
+(iii) Law enforcement agencies, courts, or regulatory authorities in Hong Kong to satisfy 
+a legally binding search warrant, court order, or statutory requirement; or 
+(iv) Legal counsel or debt recovery agencies in the event of default or unpaid parking 
+fees, subject to Section 10 and applicable data privacy laws. 
+15. New Services 
+We may introduce new features, services, or functionality associated with your On-Loan 
+MetreTag and/or the Metre App from time to time. Your use of any such new services will 
+be governed by these Conditions of Issue or by specific supplemental terms announced 
+at the time of feature launch within the Metre App. 
+16. Fees and Charges 
+Details of all applicable deposits, delivery fees, reactivation charges, and administrative 
+fees are set out in our Schedule of Fees and Guidelines, accessible directly within the 
+Metre App and on our official website at www.metre.hk. You are advised to review the 
+latest Schedule of Fees and Guidelines regularly. 
+17. Amendments to these Conditions of Issue 
+17.1. Notice of Amendments: We reserve the right to amend these Conditions of Issue 
+at any time. If an amendment affects fees, charges, or customer liabilities/obligations, 
+we will notify you by publishing a notice within the Metre App and on our official website 
+at www.metre.hk. Any such notice shall specifically identify and summarize the 
+material changes being made. 
+17.2. Effective Date: Any modifications will take effect on a date specified in the notice, 
+which will be no less than 30 days after the date of publication in the Metre App or on 
+our website. 
+17.3. Binding Effect: Continued use of your MetreTag or the Metre App following the 
+effective date of any amendment constitutes your full acceptance of the revised 
+Conditions of Issue. If you do not agree to the proposed changes, you must return your 
+On-Loan MetreTag and cancel your Metre App account prior to the effective date 
+pursuant to Section 10.1. 
+17.4. Latest Version: The most current version of these Conditions of Issue is always 
+available for inspection within the Metre App settings and on our official website. 
+17.5. Deposit Refund on Amendment-Related Cancellation: If you choose to cancel 
+your Metre App account and return your On-Loan MetreTag solely as a result of 
+--- page 14 ---
+amendments to these Conditions of Issue pursuant to Condition 17.3, you will receive a 
+full refund of your Deposit without any deductions for handling or administrative 
+charges, provided all outstanding parking fees have been settled in full. 
+17.6. Sessions in Progress: Any amendments to these Conditions of Issue shall not 
+affect the terms applicable to parking sessions already in progress at the time the 
+amendments take effect. 
+18. Rights of Third Parties 
+These Conditions of Issue are between you and Metre Hong Kong Limited. No third party 
+shall have any right to enforce or rely on any provision of these Conditions of Issue 
+under the Contracts (Rights of Third Parties) Ordinance (Cap. 623) or otherwise, save for 
+permitted successors and assigns. 
+19. Force Majeure 
+19.1. We shall not be liable for any delay or failure in performing our obligations under 
+these Conditions of Issue where such delay or failure arises from causes beyond our 
+reasonable control. Such causes include, without limitation: acts of God, extreme 
+weather or climatic conditions, power failures, cellular or satellite network outages, 
+internet backbone disruptions, physical gate/hardware failures at third-party car parks, 
+trade disputes, or changes in applicable laws or government regulations. 
+19.2. If a force majeure event continues for more than 90 days, either party may 
+terminate these Conditions of Issue by written notice, and we will refund any 
+outstanding Deposit balance. 
+20. Communication and Support 
+20.1. Official Channels: All questions, session discrepancies, lost tag reports, or 
+support requests must be submitted via WhatsApp at (852) 5911 7372, by email 
+to support@metre.hk, or via official support channels listed at www.metre.hk. 
+20.2. Communications from Us: All notices, billing alerts, and official communications 
+from us will be sent via in-app push notifications or to the email address associated 
+with your Metre App account. Communications received through any other unverified 
+channel should be treated as unauthorized. 
+20.3. Third-Party Authorization: If a third party purports to contact us on your behalf, we 
+reserve the right to request written authorization or contact you directly via your 
+registered email to verify identity before acting on any instructions. 
+21. Governing Language 
+These Conditions of Issue may be translated into Chinese or other languages for 
+reference purposes only. In the event of any discrepancy, ambiguity, or inconsistency 
+--- page 15 ---
+between the English version and any translated version, the English version shall strictly 
+prevail. 
+22. Governing Law and Jurisdiction 
+These Conditions of Issue shall be governed by, and construed in accordance with, the 
+laws of the Hong Kong Special Administrative Region. You and Metre Hong Kong Limited 
+irrevocably agree that the courts of Hong Kong shall have exclusive jurisdiction to settle 
+any dispute or claim (contractual or non-contractual) arising out of or in connection 
+with these Conditions of Issue. 
+ 

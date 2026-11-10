@@ -1,0 +1,310 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- SEO -->
+    <title data-i18n="index.meta.title">Driver | Metre</title>
+    <meta name="description" data-i18n-attr-content="index.meta.description" content="Metre gives drivers seamless entry and exit. Drive up and the barrier lifts automatically — no tapping, no stopping.">
+    <link rel="canonical" href="https://metre.hk/en/" />
+
+    <!-- Alternate languages -->
+    <link rel="alternate" hreflang="en" href="https://metre.hk/en/" />
+    <link rel="alternate" hreflang="zh-Hant-HK" href="https://metre.hk/zh-hant-hk/" />
+    <link rel="alternate" hreflang="zh-Hant-TW" href="https://metre.hk/zh-hant-tw/" />
+    <link rel="alternate" hreflang="zh-Hans" href="https://metre.hk/zh-hans/" />
+    <link rel="alternate" hreflang="x-default" href="https://metre.hk/en/" />
+
+    <!-- Favicons -->
+    <link rel="icon" type="image/png" sizes="48x48" href="/assets/img/favicon_48.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon_32.png">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="/assets/css/style.css">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Driver | Metre">
+    <meta property="og:description" content="Drive near a MetrePoint and the barrier rises automatically. No action required.">
+    <meta property="og:url" content="https://metre.hk/en/">
+    <meta property="og:site_name" content="Metre">
+    <meta property="og:locale" content="en_GB">
+    <meta property="og:locale:alternate" content="zh_HK">
+    <meta property="og:locale:alternate" content="zh_TW">
+    <meta property="og:locale:alternate" content="zh_CN">
+    <script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Metre",
+    "alternateName": [
+      "一米通"
+    ],
+    "url": "https://metre.hk"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Metre",
+    "alternateName": [
+      "一米通"
+    ],
+    "url": "https://metre.hk",
+    "logo": "https://metre.hk/assets/img/logo.png"
+  }
+]
+    </script>
+</head>
+<body data-page="index">
+
+    <header>
+        <div class="header-left">
+            <a href="/en/">
+                <img src="/assets/img/blacked_whiteBg.png" class="header-logo"
+                     alt="Metre logo" data-i18n-attr-alt="common.logo.alt">
+            </a>
+        </div>
+
+        <nav aria-label="Main">
+            <ul>
+                <li><a href="/en/" class="active i18n" data-i18n="common.nav.driver">Driver</a></li>
+                <li><a href="/en/business" class="i18n" data-i18n="common.nav.business">Business</a></li>
+            </ul>
+        </nav>
+
+        <div class="header-right">
+            <select class="btn-lang lang-select" data-lang-switcher
+                    aria-label="Select language"
+                    data-i18n-attr-aria-label="common.lang.aria">
+                <option value="en" selected>English</option>
+                <option value="zh-Hant-HK">繁體·香港</option>
+                <option value="zh-Hant-TW">繁體·台灣</option>
+                <option value="zh-Hans">简体中文</option>
+            </select>
+        </div>
+    </header>
+
+    <section class="hero">
+            <div class="hero-corner-text">MetreTag</div>
+
+            <h1>
+                <span class="hero-title-large" data-i18n="index.hero.title">Always Reliable</span>
+            </h1>
+            <p class="hero-subtitle" data-i18n-html="index.hero.subtitle">Drive near the MetrePoint and the barrier rises automatically<br>No action required</p>
+            <a href="https://console.metre.hk" class="cta-button hero-main-cta" data-i18n="index.hero.cta">Get Tag</a>
+
+            <div class="hero-image-placeholder">
+                <div class="switcher-item active">
+                    <img src="/assets/img/tag_1.jpeg" class="hero-tag-image"
+                         alt="MetreTag UWB device installed in a car" data-i18n-attr-alt="index.hero.img1Alt">
+                </div>
+                <div class="switcher-item">
+                    <img src="/assets/img/tag_2.jpeg" class="hero-tag-image"
+                         alt="MetrePoint barrier lifting automatically" data-i18n-attr-alt="index.hero.img2Alt">
+                </div>
+            </div>
+
+            <a href="https://console.metre.hk/api/guide/en"
+               id="installationGuideLink"
+               target="_blank"
+               rel="noopener noreferrer"
+               class="hero-guide-link"
+               data-i18n="index.hero.guide">View MetreTag Installation Guide</a>
+        </section>
+
+        <!-- METREPOINT COVERAGE SEARCH -->
+        <section class="coverage-section">
+            <div class="coverage-container">
+                <img src="/assets/img/MetrePoint_icon.png" alt="MetrePoint Icon" class="coverage-icon">
+
+                <h2 class="coverage-title" data-i18n="index.coverage.title">Search MetrePoint</h2>
+
+                <div class="coverage-search-box">
+                    <input type="text" id="coverageSearchInput" class="coverage-search-input"
+                           placeholder="Search by car park, area, or landmark…"
+                           data-i18n-placeholder="index.coverage.placeholder"
+                           aria-label="Search by car park, area, or landmark…"
+                           data-i18n-attr-aria-label="index.coverage.placeholder">
+                    <button id="coverageSearchBtn" class="coverage-search-btn" data-i18n="index.coverage.button">Search</button>
+                </div>
+
+                <div class="coverage-tags">
+                    <a href="#" class="coverage-tag" data-quick-search="中環" data-quick-search-en="Central" data-i18n="index.coverage.tag.central">Central</a>
+                    <a href="#" class="coverage-tag" data-quick-search="尖沙咀" data-quick-search-en="Tsim Sha Tsui" data-i18n="index.coverage.tag.tst">Tsim Sha Tsui</a>
+                    <a href="#" class="coverage-tag" data-quick-search="灣仔" data-quick-search-en="Wan Chai" data-i18n="index.coverage.tag.wanchai">Wan Chai</a>
+                    <a href="#" class="coverage-tag" data-quick-search="觀塘" data-quick-search-en="Kwun Tong" data-i18n="index.coverage.tag.kwuntong">Kwun Tong</a>
+                    <a href="#" class="coverage-tag" data-quick-search="旺角" data-quick-search-en="Mong Kok" data-i18n="index.coverage.tag.mongkok">Mong Kok</a>
+                </div>
+
+                <!-- Results list (hidden until a search runs) -->
+                <div id="coverageResultsWrapper" class="coverage-results-wrapper" hidden>
+                    <div class="coverage-results-header">
+                        <span class="coverage-results-col cp-name" data-i18n="index.coverage.col.name">Car Park</span>
+                        <span class="coverage-results-col cp-region" data-i18n="index.coverage.col.region">Region</span>
+                        <span class="coverage-results-col cp-district" data-i18n="index.coverage.col.district">District</span>
+                        <span class="coverage-results-col cp-category" data-i18n="index.coverage.col.category">Category</span>
+                        <span class="coverage-results-col cp-address" data-i18n="index.coverage.col.address">Address</span>
+                    </div>
+                    <div id="coverageResultsList" class="coverage-results-list"></div>
+                    <p id="coverageNoResults" class="coverage-no-results" hidden data-i18n="index.coverage.noResults">No matching car parks found. Try another keyword.</p>
+                    <p id="coverageSearching" class="coverage-no-results" hidden data-i18n="index.coverage.searching">Searching…</p>
+                </div>
+
+                <!-- Detail panel (shown after clicking a result row) -->
+                <div id="coverageDetailPanel" class="coverage-detail-panel" hidden>
+                    <button id="coverageDetailBack" class="coverage-detail-back" data-i18n="index.coverage.back">← Back to results</button>
+                    <div id="coverageDetailContent" class="coverage-detail-content"></div>
+                </div>
+            </div>
+        </section>
+
+        <section class="feature-rows-section">
+            <div class="feature-rows-container">
+
+                <div class="feature-section-header">
+                    <span class="feature-eyebrow" data-i18n="index.features.eyebrow">ULTRA-WIDEBAND (UWB)</span>
+                    <h2 class="feature-section-title" data-i18n="index.features.title">Beyond Speed and Precision</h2>
+                </div>
+
+                <div class="feature-rows-wrapper">
+
+                    <div class="feature-row">
+                        <div class="feature-text">
+                            <h2 data-i18n="index.features.privacy.title">Protect Your Privacy</h2>
+                            <p data-i18n-html="index.features.privacy.body">Whitelist your vehicle using only your Metre ID.<br>No licence plate required.</p>
+                        </div>
+                        <div class="feature-image-wrapper bg-transparent tall-wrapper">
+                            <img src="/assets/img/priv.png" class="feature-wide-image" style="object-fit: contain;"
+                                 alt="Metre app privacy settings" data-i18n-attr-alt="index.features.privacy.imgAlt">
+                        </div>
+                    </div>
+
+                    <div class="dashboard-section-wrapper">
+                        <div class="dashboard-cards-header">
+                            <h2 data-i18n="index.features.dashboard.title">Comprehensive Parking Dashboard</h2>
+                            <p data-i18n="index.features.dashboard.subtitle">With the Metre app, all your parking information is clear at a glance:</p>
+                        </div>
+
+                        <div class="dashboard-cards-container">
+                            <div class="dashboard-card">
+                                <div class="dashboard-card-text">
+                                    <h3 data-i18n="index.features.card1.title">Real-time Status</h3>
+                                    <p data-i18n="index.features.card1.body">Check your parked duration and accumulated fees anytime.</p>
+                                </div>
+                                <img src="/assets/img/app_demo_1.png"
+                                     alt="Real-time Status" data-i18n-attr-alt="index.features.card1.title">
+                            </div>
+
+                            <div class="dashboard-card">
+                                <div class="dashboard-card-text">
+                                    <h3 data-i18n="index.features.card2.title">Transparent Pricing</h3>
+                                    <p data-i18n="index.features.card2.body">Clear breakdown of pricing rules for every car park.</p>
+                                </div>
+                                <img src="/assets/img/app_demo_2.png"
+                                     alt="Transparent Pricing" data-i18n-attr-alt="index.features.card2.title">
+                            </div>
+
+                            <div class="dashboard-card">
+                                <div class="dashboard-card-text">
+                                    <h3 data-i18n="index.features.card3.title">Detailed Records</h3>
+                                    <p data-i18n="index.features.card3.body">Complete history of your parking and payment records for easy access.</p>
+                                </div>
+                                <img src="/assets/img/app_demo_3.png"
+                                     alt="Detailed Records" data-i18n-attr-alt="index.features.card3.title">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <section class="hero secondary-hero">
+            <h2>
+                <span class="hero-title-large" data-i18n="index.payment.title">Pay via FPS Anywhere, Anytime in the App</span>
+            </h2>
+
+            <img src="/assets/img/full_quota.png" class="secondary-hero-image"
+                 alt="In-app payment screen" data-i18n-attr-alt="index.payment.imgAlt">
+
+            <ul class="hero-subtitle list-style">
+                <li data-i18n="index.payment.li1">Seamless auto-payment is limited to HK$100.</li>
+                <li data-i18n="index.payment.li2">Accumulated fees over HK$100 must be paid before or upon exiting.</li>
+                <li data-i18n="index.payment.li3">Either way, you can always verify the amount before paying.</li>
+                <li data-i18n="index.payment.li4">All outstanding fees must be paid within 7 days.</li>
+            </ul>
+
+            <a href="https://console.metre.hk" class="cta-button" style="margin-top: 1.5rem;" data-i18n="index.payment.cta">Download the App &amp; Get Your Tag with a HK$100 Deposit</a>
+            <small class="hero-disclaimer" data-i18n="index.payment.disclaimer">*The MetreTag deposit is unrelated to this limit and cannot be used for payments.</small>
+        </section>
+
+        <section class="faq-section">
+            <h2 class="faq-title" data-i18n="index.faq.title">Frequently Asked Questions</h2>
+            <div class="faq-container">
+                <details class="faq-item">
+                    <summary data-i18n="index.faq.q1">How do I get my deposit refunded?</summary>
+                    <div class="faq-content" data-i18n="index.faq.a1">When you return your MetreTag, an engineer checks it for deliberate damage. If there is none, the deposit is refunded to your original payment method.</div>
+                </details>
+                <details class="faq-item">
+                    <summary data-i18n="index.faq.q2">How does MetreTag prevent unauthorised scanning?</summary>
+                    <div class="faq-content" data-i18n="index.faq.a2">MetreTag settles payments over Ultra-Wideband. The IEEE 802.15.4z standard it uses introduces the Scrambled Timestamp Sequence (STS), a security mechanism that stops malicious devices from injecting signal energy to spoof distance, so every payment stays authentic.</div>
+                </details>
+                <details class="faq-item">
+                    <summary data-i18n="index.faq.q3">Is MetreTag accurate?</summary>
+                    <div class="faq-content" data-i18n="index.faq.a3">Centimetre-level spatial algorithms from UWB prevent accidental triggers when you simply drive past.</div>
+                </details>
+                <details class="faq-item">
+                    <summary data-i18n="index.faq.q4">How is MetreTag powered?</summary>
+                    <div class="faq-content" data-i18n="index.faq.a4">It runs on a standard 5V supply, just like a typical dashcam.</div>
+                </details>
+                <details class="faq-item">
+                    <summary data-i18n="index.faq.q5">If my phone battery dies, will automatic payment still work?</summary>
+                    <div class="faq-content" data-i18n="index.faq.a5">Yes. MetreTag is an independent hardware device. As long as it is installed in your car, MetrePoint recognises it and completes payment automatically, even if your phone is dead or not with you.</div>
+                </details>
+                <details class="faq-item">
+                    <summary data-i18n="index.faq.q6">Will my location data be leaked?</summary>
+                    <div class="faq-content" data-i18n="index.faq.a6">No. We use end-to-end encryption, and your entry and exit records are used strictly for billing. We never collect, track, or sell your location data to third parties.</div>
+                </details>
+                <details class="faq-item">
+                    <summary data-i18n="index.faq.q7">What payment methods are supported?</summary>
+                    <div class="faq-content" data-i18n="index.faq.a7">FPS only for now. More automatic payment methods are on the way.</div>
+                </details>
+            </div>
+        </section>
+
+    <footer class="footer">
+        <div class="footer-socials">
+            <a href="https://www.facebook.com/metrehk" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" aria-hidden="true" focusable="false"><path d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"/></svg></a>
+            <a href="https://www.instagram.com/metrehk" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" aria-hidden="true" focusable="false"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"/></svg></a>
+        </div>
+        <div class="footer-main">
+            <span class="copyright">
+                Copyright &copy; <span id="current-year"></span>
+                <span class="i18n" data-i18n="common.footer.copyright">Metre Ltd. All rights reserved.</span>
+            </span>
+            <span class="footer-links">
+                <a href="/en/privacy" class="i18n" data-i18n="common.footer.privacy">Privacy Policy</a> |
+                <a href="/en/terms" class="i18n" data-i18n="common.footer.terms">Terms of Use</a> |
+                <a href="/en/contact" class="i18n" data-i18n="common.footer.contact">Contact</a>
+            </span>
+        </div>
+
+        <div class="footer-locale">
+            <!-- <span data-i18n="common.footer.region">Hong Kong</span> -->
+            <nav class="footer-lang-links" aria-label="Language"
+                 data-i18n-attr-aria-label="common.lang.heading">
+                <a href="/en/" hreflang="en" lang="en" aria-current="true">English</a>
+                <a href="/zh-hant-hk/" hreflang="zh-Hant-HK" lang="zh-Hant-HK">繁體中文（香港）</a>
+                <a href="/zh-hant-tw/" hreflang="zh-Hant-TW" lang="zh-Hant-TW">繁體中文（台灣）</a>
+                <a href="/zh-hans/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a>
+            </nav>
+        </div>
+    </footer>
+
+    <script src="/assets/js/i18n.js" defer></script>
+    <script src="/assets/js/site.js" defer></script>
+    <script src="/assets/js/home.js" defer></script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a585625d9cb83330',t:'MTc5NDMxNzEzNw=='};var l=window.parent.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a585625d9cb83330',a=document.createElement('script');a.src=o?new URL(u,o).href:u;document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

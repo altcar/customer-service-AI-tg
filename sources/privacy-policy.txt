@@ -1,0 +1,378 @@
+--- page 1 ---
+Metre Hong Kong Limited – Privacy Policy Statement 
+Page 1 of 9 
+METRE HONG KONG LIMITED 
+PRIVACY POLICY STATEMENT 
+Effective Date: 6 Aug 2026 
+Version: 1.0 
+ 
+SUMMARY OF THIS PRIVACY POLICY STATEMENT 
+This summary highlights the key points of our privacy practices for your convenience. It is not a 
+substitute for the full Privacy Policy Statement below, which you should read in full and which 
+prevails over this summary in the event of any inconsistency. 
+• What we collect: your name and contact details, payment/settlement identifiers, MetreTag and 
+device identifiers, and MetreTag usage/parking session data. We do not collect credit or debit card 
+numbers, and we do not use cookies, tracking technologies, or SDKs to collect data (paragraphs 4–
+5). 
+• Why we use it: to issue and manage your MetreTag, operate our parking access and payment 
+systems, provide customer support, and meet our legal and compliance obligations (paragraph 6). 
+• Marketing: we only send marketing communications with your explicit consent, and you can opt 
+out at any time, free of charge (paragraphs 7–8). 
+• Who we share it with: infrastructure and technical service providers, participating parking 
+operators, operational contractors, our affiliates, and regulators or law enforcement where legally 
+required — all within Hong Kong (paragraph 9). 
+• How long we keep it: only for as long as necessary, after which it is erased or anonymized 
+(paragraphs 11–13). 
+• Security: we apply technical, organizational, and managerial safeguards to protect your data 
+(paragraphs 14–16). 
+• Children: our services are not intended for, and we do not knowingly collect data from, persons 
+under 18 (paragraph 17). 
+• Data breaches: we are committed to notifying affected users and the Privacy Commissioner for 
+Personal Data of a significant data breach (paragraph 18). 
+• Automated decisions: certain fraud-prevention decisions may be automated; you may request 
+human review (paragraph 19). 
+• Your rights: access, correction, opt-out of marketing, and complaint to the Privacy Commissioner 
+for Personal Data (see the summary table and paragraphs 20–25). 
+  
+--- page 2 ---
+Metre Hong Kong Limited – Privacy Policy Statement 
+Page 2 of 9 
+TABLE OF CONTENTS 
+SUMMARY OF THIS PRIVACY POLICY STATEMENT .................................................................. 1 
+GENERAL ............................................................................................................................................... 3 
+DEFINITIONS AND INTERPRETATION ............................................................................................ 3 
+OUR COMPANY POLICY .................................................................................................................... 3 
+STATEMENT OF PRACTICES ............................................................................................................. 4 
+TYPES OF PERSONAL DATA COLLECTED AND HELD............................................................ 4 
+COOKIES, TRACKING TECHNOLOGIES AND SDK DATA ....................................................... 4 
+PURPOSES OF KEEPING PERSONAL DATA................................................................................ 5 
+USE OF PERSONAL DATA IN DIRECT MARKETING ................................................................ 5 
+DISCLOSURE OF PERSONAL DATA ............................................................................................. 6 
+ACCURACY AND RETENTION OF PERSONAL DATA .............................................................. 6 
+SECURITY OF PERSONAL DATA .................................................................................................. 7 
+CHILDREN'S PERSONAL DATA .................................................................................................... 7 
+DATA BREACH NOTIFICATION .................................................................................................... 7 
+AUTOMATED DECISION-MAKING ............................................................................................... 7 
+ACCESS, CORRECTION AND OTHER RIGHTS ........................................................................... 8 
+LINKS TO OTHER WEBSITES ............................................................................................................ 8 
+AMENDMENTS TO THIS PRIVACY POLICY STATEMENT .......................................................... 9 
+INTERNAL COMPLIANCE PRACTICES ............................................................................................ 9 
+GOVERNING LANGUAGE .................................................................................................................. 9 
+CONDITIONS OF ISSUE ....................................................................................................................... 9 
+ 
+  
+--- page 3 ---
+Metre Hong Kong Limited – Privacy Policy Statement 
+Page 3 of 9 
+GENERAL 
+1. Metre Hong Kong Limited (the "Company", "we", "our" or "us"), the issuer of the MetreTag 
+and operator of the Metre App and associated platforms, respects the privacy of its users and 
+recognizes the importance of protecting personal data. We collect and process personal data 
+to efficiently provide our vehicle access, parking session tracking, and transaction settlement 
+services to our customers. This Privacy Policy Statement is designed to help you understand 
+what information the Company collects, how we use and safeguard that information, and your 
+rights regarding your personal data. 
+DEFINITIONS AND INTERPRETATION 
+2. In this Privacy Policy Statement, unless the context otherwise requires: 
+"Ordinance" means the Personal Data (Privacy) Ordinance (Cap. 486) of the Laws of the 
+Hong Kong Special Administrative Region; 
+"Personal Data" means any personal data held by the Company that falls within the 
+following categories, in each case to the extent that it constitutes “personal data” under 
+section 2(1) of the Ordinance: 
+(a) Identity and Registration Data — information provided by an applicant, account 
+holder, or registered user of the Metre App or MetreTag, and information relating to 
+persons linked to a Service Provider or commercial partner applicant (including 
+beneficial owners, directors, and officers of corporate entities), whether contained in 
+registration forms or submitted via the Metre App; 
+(b) Session Data — data and records collected during your use of the MetreTag, 
+including parking session entry and exit timestamps, physical locations, and session 
+duration data captured by our Metre readers or integrated hardware systems; 
+(c) Account and Payment Data — data and records collected during the operation and 
+use of the Metre App and payment processing services, including linked payment 
+details, account transaction logs, and device identifiers; and 
+(d) Device Data — information relating to the mobile device(s) used to access the Metre 
+App, as further described in paragraph 4(f) below; 
+"Service Provider" means any car park operator, property manager, access control operator, 
+or mobility service provider that utilizes the Metre system to record parking sessions, grant 
+vehicle access, or manage parking premises, and has been approved by us. Service Providers 
+will clearly display the Metre acceptance logo at their physical locations, access barriers, or 
+within online channels. 
+OUR COMPANY POLICY 
+3. We pledge to comply fully with, and where reasonably practicable exceed, the requirements 
+of the Personal Data (Privacy) Ordinance (Cap. 486) of Hong Kong. In fulfilling this pledge, 
+we commit to: 
+(i)  Collect adequate, but not excessive, Personal Data by lawful and fair means solely 
+for lawful purposes directly related to our vehicle access, parking session tracking, 
+payment settlement, and account administration operations; 
+(ii)  Take all reasonably practicable steps to ensure that all Personal Data collected or 
+retained by us is accurate and kept up to date, having regard to the purposes for 
+which it is used; 
+--- page 4 ---
+Metre Hong Kong Limited – Privacy Policy Statement 
+Page 4 of 9 
+(iii)  Refrain from using Personal Data where there are reasonable grounds for believing 
+that the data is inaccurate or outdated, having regard to the specified operational 
+purposes; 
+(iv)  Erase or securely anonymize Personal Data when it is no longer necessary for the 
+fulfillment of the purposes for which it was collected; 
+(v)  Use Personal Data strictly for the purposes specified at the time of collection, unless 
+you have given your express prior consent for a change of use, or such use is 
+required or permitted by the Ordinance or applicable laws of Hong Kong; 
+(vi)  Implement appropriate technical, physical, and organizational security measures to 
+protect Personal Data against unauthorized or accidental access, processing, erasure, 
+loss, or other misuse; 
+(vii) Ensure you are informed of the kinds of Personal Data we hold and the primary 
+purposes for which your data will be processed; and 
+(viii) Provide you with rights of access to and correction of your Personal Data held by us 
+in accordance with the Ordinance. 
+We reserve the right to charge a reasonable administrative fee as permitted under the 
+Ordinance for processing formal data access requests. 
+STATEMENT OF PRACTICES 
+TYPES OF PERSONAL DATA COLLECTED AND HELD 
+4. For the purpose of conducting the Company's business (including operating the Metre App, 
+processing vehicle access, and settling parking transactions), we may collect from you and 
+hold some or all of the following Personal Data (depending on the specific products, features, 
+or services you select) to enable us to issue your MetreTag and provide our services to you: 
+a. Your name; 
+b. Contact details, including email address, and delivery or mailing address (for 
+MetreTag dispatch and official correspondence); 
+c. Payment and settlement information, including designated FPS (Faster Payment 
+System) identifiers, proxy IDs, or bank account details for processing deposit refunds 
+or transaction settlements. We do not collect or store credit or debit card numbers; 
+d. Your MetreTag identifier, hardware serial number, and cryptographic binding keys 
+associated with your account; 
+e. MetreTag usage and session data, including parking entry/exit timestamps, session 
+duration, physical car park locations, and barrier interactions1; 
+f. Mobile device information, including unique device identifiers (e.g., IDFV/UUID), 
+operating system version, and device parameters where the Metre App is installed; 
+g. Customer support records, including app activity logs, feedback submissions, and 
+communication history between you and our support channels. 
+COOKIES, TRACKING TECHNOLOGIES AND SDK DATA 
+ 
+1Such usage and session data is Personal Data only to the extent that it can, directly or indirectly, be 
+used to ascertain your identity. 
+--- page 5 ---
+Metre Hong Kong Limited – Privacy Policy Statement 
+Page 5 of 9 
+5. We do not use cookies, web beacons, tracking pixels, software development kits (SDKs), or 
+similar tracking technologies to collect Personal Data through the Metre App or our website. 
+If this changes in the future, we will update this Privacy Policy Statement accordingly and, 
+where required by the Ordinance, obtain your consent beforehand. 
+PURPOSES OF KEEPING PERSONAL DATA 
+6. Personal Data held by us may be used for any of the following purposes (as applicable): 
+a. Processing your account registration and orders for On-Loan MetreTags; 
+b. Managing, operating, and maintaining the Metre parking access system, Metre App, 
+and hardware infrastructure, including processing entry/exit barrier clearance and 
+calculating session fees; 
+c. Verifying your MetreTag serials, payment credentials, and app activity records; 
+d. Processing payment settlements, collecting outstanding parking fees, and managing 
+FPS Deposit transfers or refunds; 
+e. Sending you operational communications, including real-time parking session 
+notifications, fee statements, system alerts, and customer support messages; 
+f. Providing you with direct marketing materials and promotions (subject to your 
+explicit consent as set out in paragraph 8); 
+g. Enforcing our legal rights under the Conditions of Issue, including investigating 
+improper use, non-payment, or unreturned On-Loan MetreTags; 
+h. Conducting customer due diligence, risk assessments, and compliance checks as 
+required by applicable laws, rules, or guidelines in Hong Kong; 
+i. Designing new products or improving existing hardware, firmware, mobile 
+applications, and parking ecosystem services provided by us, our subsidiaries, and 
+our affiliates, based on the analysis of anonymized and/or aggregated data that does 
+not identify you; 
+j. Investigating customer complaints, technical glitches, hardware malfunctions, or 
+suspicious transaction activities; 
+k. Preventing, detecting, or investigating fraud, unauthorized device modification, or 
+criminal activities; and 
+l. Disclosing information as required by any applicable laws, court orders, regulatory 
+authorities, or law enforcement requests within the Hong Kong Special 
+Administrative Region. 
+USE OF PERSONAL DATA IN DIRECT MARKETING 
+7. We intend to use your Personal Data to send you direct marketing communications regarding 
+our products, services, special promotions, and offers relating to parking and mobility 
+services: 
+a. Data Used: Your name, email address, and mobile device identifiers (for in-app push 
+notifications). We do not collect or use telephone numbers for direct marketing 
+purposes; 
+b. Delivery Channels: Email and push notifications delivered through the Metre App; 
+c. Consent Required: We will not use your Personal Data for direct marketing 
+purposes unless we have received your explicit prior consent. You may opt out or 
+--- page 6 ---
+Metre Hong Kong Limited – Privacy Policy Statement 
+Page 6 of 9 
+object to our use of your Personal Data for direct marketing at any time, free of 
+charge, via the settings in the Metre App or by notifying us through our designated 
+support channels. 
+8. Only with your explicit consent as described above will we use your Personal Data to provide 
+you with tailored marketing materials and offers relating to Metre products and services. To 
+achieve this, we may carry out internal operational and analytical procedures to: 
+a. Better understand your usage patterns and preferences to provide services better 
+tailored to your needs (such as offering location-based or frequent-parker 
+promotions); 
+b. Assist us in selecting features, parking options, and mobility products that are likely 
+to be of interest to you; and 
+c. Arrange exclusive marketing offers, rewards, and user benefits within the Metre 
+ecosystem. 
+DISCLOSURE OF PERSONAL DATA 
+9. All Personal Data held by us will be kept confidential. However, for the purposes set out in 
+paragraphs 6 and 7 above, we may transfer or disclose such Personal Data to the following 
+parties within Hong Kong: 
+a. Infrastructure & Technical Service Providers: Third-party cloud service providers, 
+IT system hosts, software developers, and database management contractors bound 
+by a duty of confidentiality to us; 
+b. Parking Operators: Participating car park owners, operators, and property 
+management companies bound by a duty of confidentiality to us, solely to the extent 
+necessary to verify vehicle entry/exit, clear access barriers, and resolve session 
+discrepancies; 
+c. Operational Contractors: Our agents, contractors, and service providers who owe a 
+duty of confidentiality to us and provide administrative, logistics/courier (for 
+MetreTag delivery), payment execution (such as FPS gateway providers), debt 
+collection (in the event of overdue parking fees), legal, auditing, or customer support 
+services in connection with our business operations; 
+d. Affiliates: Our subsidiaries and direct holding company which owe a duty of 
+confidentiality to us for internal management and service execution; and 
+e. Regulatory & Legal Authorities: Any law enforcement agencies, government 
+bodies, regulatory authorities, or courts of law in Hong Kong to whom we, our 
+subsidiaries, or our affiliates are under a legally binding obligation or court order to 
+satisfy a disclosure demand under applicable laws and regulations. 
+10. For the avoidance of doubt, we will not transfer or disclose your Personal Data to any third 
+party (including our subsidiaries or affiliates) for use in direct marketing by that third party 
+unless we have received your explicit prior written or in-app consent. 
+ACCURACY AND RETENTION OF PERSONAL DATA 
+11. Personal Data collected and maintained by the Company shall be as accurate, complete, and 
+up-to-date as is necessary for the performance of our parking access and transaction 
+settlement services. 
+12. Personal Data will not be retained longer than necessary to fulfill the purposes for which it 
+was collected. Data that is no longer required will be erased, unless retention is required under 
+--- page 7 ---
+Metre Hong Kong Limited – Privacy Policy Statement 
+Page 7 of 9 
+applicable Hong Kong laws or public interest mandates. For statistical or technical 
+performance analysis, records will be anonymized so that individual users cannot be 
+identified. 
+13. We destroy records containing Personal Data in accordance with our internal security 
+procedures. Physical paper records will be destroyed by irreversible means, and electronic 
+storage media containing user data or hardware identifiers will be purged or sanitized prior to 
+disposal. 
+SECURITY OF PERSONAL DATA 
+14. We prioritize data security and implement appropriate technical, organizational, and 
+managerial safeguards to protect your Personal Data against unauthorized or accidental 
+access, processing, loss, or erasure. 
+15. Our cloud infrastructure, databases, and APIs are protected by industry-standard firewalls, 
+encrypted connections (TLS/HTTPS), and hardware-level cryptographic controls. As standard 
+email transmissions are not fully secure, sensitive personal credentials or verification 
+documents should only be submitted through secure upload mechanisms within the Metre 
+App or designated support channels. 
+16. Unnecessary or obsolete account data will be purged from our active systems in accordance 
+with our internal retention schedules. 
+CHILDREN'S PERSONAL DATA 
+17. The Metre App and our services are not intended for, or directed at, persons under the age of 
+18, and we do not knowingly collect Personal Data from persons under the age of 18. If we 
+become aware that we have inadvertently collected Personal Data from a person under the age 
+of 18 without the necessary consent, we will take reasonable steps to delete that data as soon 
+as practicable. If you believe that a person under the age of 18 has provided us with Personal 
+Data, please contact our Data Protection Officer using the contact details set out in paragraph 
+25 below. 
+DATA BREACH NOTIFICATION 
+18. While the Ordinance does not currently impose a mandatory requirement on us to notify 
+affected individuals or the Privacy Commissioner for Personal Data (“PCPD”) of a data 
+breach, we are committed to good practice in this area, having regard to the PCPD's Guidance 
+on Data Breach Handling and the Giving of Breach Notifications. In the event of a data 
+breach involving your Personal Data that poses a real risk of harm to you, we will, as soon as 
+reasonably practicable: (a) take immediate steps to contain the breach and mitigate any 
+resulting harm; (b) assess the cause, extent, and impact of the breach; and (c) notify affected 
+users, and, where appropriate, the PCPD, of the breach and of the steps we have taken or 
+intend to take in response, in line with applicable best practice. 
+AUTOMATED DECISION-MAKING 
+19. In limited circumstances, we may use automated tools or systems to support decisions that 
+affect you — for example, algorithmic checks used to detect suspected fraud or unauthorized 
+use of a MetreTag or account (see paragraph 6(k) above), which may result in a temporary 
+suspension of your account or MetreTag pending further review. Where an automated 
+decision has a legal or otherwise significant effect on you, you may request that a member of 
+our staff review that decision by contacting our Data Protection Officer using the contact 
+details set out in paragraph 25 below, and we will give you the opportunity to present your 
+views before a final decision is made. 
+--- page 8 ---
+Metre Hong Kong Limited – Privacy Policy Statement 
+Page 8 of 9 
+ACCESS, CORRECTION AND OTHER RIGHTS 
+Summary of Your Rights 
+Your Right What It Means How To Exercise It 
+Access 
+Request a copy of the 
+Personal Data we hold about 
+you 
+Submit the PCPD's prescribed Data Access 
+Request Form with proof of identity to our Data 
+Protection Officer (paragraph 20) 
+Correction Ask us to correct inaccurate Personal Data Contact our Data Protection Officer (paragraph 22) 
+Opt-out of 
+Direct 
+Marketing 
+Stop receiving marketing 
+communications, free of 
+charge, at any time 
+Use the settings in the Metre App, or contact our 
+support channels or Data Protection Officer 
+(paragraph 21) 
+Complaint to 
+the PCPD 
+Raise a concern if you believe 
+we have mishandled your 
+Personal Data 
+Contact our Data Protection Officer, or lodge a 
+complaint with the Privacy Commissioner for 
+Personal Data at www.pcpd.org.hk (paragraph 
+24) 
+ 
+20. You have the right to request access to any Personal Data we hold about you. To submit a 
+Data Access Request, please complete the prescribed form issued by the Privacy 
+Commissioner for Personal Data (PCPD) and send it, along with proof of identity, to our Data 
+Protection Officer at the address set out in paragraph 25 below or via dpo@metre.hk. We may 
+charge a reasonable fee permitted under the Ordinance to cover administrative costs for 
+processing your request. 
+21. You have the right to object to or opt out of our use of your Personal Data for direct 
+marketing purposes at any time, free of charge. You can manage your preferences directly in 
+the Metre App settings or by notifying us via our official support channels. 
+22. You have the right to request the correction of any inaccurate Personal Data held by us by 
+contacting our Data Protection Officer. 
+23. We will comply with your data access or correction request unless we are required or 
+permitted to refuse the request under the Ordinance or other applicable legal grounds. 
+24. If you believe that we have handled your Personal Data in a manner inconsistent with this 
+Privacy Policy Statement or the Ordinance, we encourage you to contact our Data Protection 
+Officer in the first instance (see paragraph 25 below) so that we may investigate and address 
+your concerns. You also have the right to lodge a complaint directly with the Office of the 
+Privacy Commissioner for Personal Data, Hong Kong (Hotline: 2827 2827; Website: 
+www.pcpd.org.hk), which independently oversees compliance with the Ordinance. 
+25. Data Protection Officer Contact: 
+Email: dpo@metre.hk 
+Website: www.metre.hk 
+Address: Flat 1229, Kai Fai House, Choi Wan (II) Estate, Kowloon, Hong Kong 
+LINKS TO OTHER WEBSITES 
+--- page 9 ---
+Metre Hong Kong Limited – Privacy Policy Statement 
+Page 9 of 9 
+26. The Metre App and website may contain links to third-party services or external platforms. 
+This Privacy Policy Statement applies solely to our services. When navigating to third-party 
+links, you should consult their respective privacy policies. 
+AMENDMENTS TO THIS PRIVACY POLICY STATEMENT 
+27. We keep this Privacy Policy Statement under regular review. Where we make any material 
+change to this Privacy Policy Statement, we will give you reasonable advance notice of not 
+less than 30 days before the change takes effect, and will notify you by email and/or in-app 
+notification via the Metre App, in addition to posting the updated Privacy Policy Statement on 
+our official website (www.metre.hk). Minor or non-material changes (for example, 
+corrections of typographical errors) may be made without prior notice. 
+INTERNAL COMPLIANCE PRACTICES 
+28. Our Data Protection Officer oversees compliance with the Ordinance within the Company. 
+We maintain the following internal measures: 
+a. Maintenance of a formal log book recording any refused data access or correction 
+requests and the specific legal grounds for refusal; 
+b. Inclusion of a clear Personal Information Collection Statement (PICS) in our app 
+onboarding and account registration workflows; and 
+c. Implementation of internal privacy guidelines, data security protocols, and staff 
+training to ensure alignment with up-to-date data protection standards. 
+GOVERNING LANGUAGE 
+29. In the event of any inconsistency or conflict between the English and Chinese versions of this 
+Privacy Policy Statement, the English version shall strictly prevail. 
+CONDITIONS OF ISSUE 
+30. Nothing in this Privacy Policy Statement shall limit or prejudice the rights and obligations of 
+the Company under the Metre Conditions of Issue. 
