@@ -278,7 +278,7 @@ export default {
     const url = new URL(request.url);
     const path = url.pathname;
 
-    if (request.method === "GET" && (path === "/health" || path === "/" || path === "/status")) {
+    if (request.method === "GET" && (path === "/health" || path === "/info" || path === "/status")) {
       return Response.json({
         status: "ok",
         service: "Metre customer service AI",
@@ -286,6 +286,7 @@ export default {
         ragChunks: (ragData.chunks || []).length,
         telegramEnabled: Boolean(env.TELEGRAM_BOT_TOKEN),
         minWords: Number(env.MIN_WORDS || 100),
+        webhookUrl: `https://${url.hostname}`,
         time: new Date().toISOString(),
       });
     }
@@ -294,7 +295,7 @@ export default {
     if (path === "/seturl") {
       const token = env.TELEGRAM_BOT_TOKEN;
       if (!token) return Response.json({ error: "TELEGRAM_BOT_TOKEN is not configured" }, { status: 400 });
-      const webhookUrl = `https://${url.hostname}/endpoint`;
+      const webhookUrl = `https://${url.hostname}/`;
       const payload = { url: webhookUrl };
       if (env.TELEGRAM_WEBHOOK_SECRET) payload.secret_token = env.TELEGRAM_WEBHOOK_SECRET;
       try {
@@ -310,8 +311,8 @@ export default {
       }
     }
 
-    // Telegram webhook.
-    if (request.method === "POST" && (path === "/endpoint" || path === "/webhook")) {
+    // Telegram webhook (accept at /, /endpoint, or /webhook).
+    if (request.method === "POST" && (path === "/" || path === "/endpoint" || path === "/webhook")) {
       if (env.TELEGRAM_WEBHOOK_SECRET) {
         const provided = request.headers.get("x-telegram-bot-api-secret-token");
         if (provided !== env.TELEGRAM_WEBHOOK_SECRET) {

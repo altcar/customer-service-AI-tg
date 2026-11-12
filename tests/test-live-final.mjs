@@ -5,7 +5,7 @@
   "What can I do in the Metre Console?",
 ];
 for (const message of questions) {
-  const res = await fetch("https://customer-service-ai-tg.hheylau.workers.dev/chat", {
+  const res = await fetch("https://metrecs.hheylau.workers.dev/chat", {
     method: "POST",
     headers: { "Content-Type": "application/json; charset=utf-8" },
     body: JSON.stringify({ message, sessionId: "final-live" }),

@@ -58,12 +58,12 @@ npm install -g wrangler   # already installed on this machine
 wrangler deploy
 ```
 
-The Worker is served at `https://customer-service-ai-tg.hheylau.workers.dev`.
+The Worker is served at `https://metrecs.hheylau.workers.dev`.
 
 After deploying, set the Telegram webhook:
 
 ```sh
-curl https://customer-service-ai-tg.hheylau.workers.dev/seturl
+curl https://metrecs.hheylau.workers.dev/seturl
 ```
 
 ## Web chat widget
@@ -75,13 +75,13 @@ and `<script>` blocks into any page on `metre.hk` (before `</body>`). It calls t
 ## Telegram setup
 
 The current bot is **@metrehkbot** and its webhook is already registered to
-`https://customer-service-ai-tg.hheylau.workers.dev/endpoint`. Send it a message to try it.
+`https://metrecs.hheylau.workers.dev/endpoint`. Send it a message to try it.
 
 To use a different bot:
 
 1. Create a bot with [@BotFather](https://t.me/BotFather) and copy the token.
 2. Set the secret: `wrangler secret put TELEGRAM_BOT_TOKEN`
-3. Register the webhook: `curl https://customer-service-ai-tg.hheylau.workers.dev/seturl`
+3. Register the webhook: `curl https://metrecs.hheylau.workers.dev/seturl`
 4. Send a message to your bot â€” it will reply using the RAG knowledge base.
 
 ## Safety barrier

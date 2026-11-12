@@ -1,6 +1,6 @@
 ﻿for (const message of ["/start", "What is the warranty policy for a damaged MetreTag?"]) {
   const t0 = Date.now();
-  const res = await fetch("https://customer-service-ai-tg.hheylau.workers.dev/chat", {
+  const res = await fetch("https://metrecs.hheylau.workers.dev/chat", {
     method: "POST",
     headers: { "Content-Type": "application/json; charset=utf-8" },
     body: JSON.stringify({ message, sessionId: "final-test" }),

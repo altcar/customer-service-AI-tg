@@ -1,4 +1,4 @@
-﻿const res = await fetch("https://customer-service-ai-tg.hheylau.workers.dev/chat", {
+﻿const res = await fetch("https://metrecs.hheylau.workers.dev/chat", {
   method: "POST",
   headers: { "Content-Type": "application/json; charset=utf-8" },
   body: JSON.stringify({ message: "å¦‚ä½•é€€é‚„æŒ‰é‡‘ï¼Ÿ", sessionId: "node-live-test" }),

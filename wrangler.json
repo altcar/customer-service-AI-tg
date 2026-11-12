@@ -1,5 +1,5 @@
 {
-  "name": "customer-service-ai-tg",
+  "name": "metrecs",
   "main": "src/index.js",
   "compatibility_date": "2026-11-10",
   "workers_dev": true,
