@@ -1,6 +1,6 @@
-# Metre Customer Service AI (customer-service-ai-tg)
+﻿# Metre Customer Service AI (customer-service-ai-tg)
 
-A customer-service AI for **Metre (一米通)** — [metre.hk](https://www.metre.hk), the business
+A customer-service AI for **Metre (ä¸€ç±³é€š)** â€” [metre.hk](https://www.metre.hk), the business
 page and the Metre Console. It runs on Cloudflare Workers and combines:
 
 - a **bundled RAG knowledge file** (`rag.json`) built from the public website, the installation
@@ -8,7 +8,7 @@ page and the Metre Console. It runs on Cloudflare Workers and combines:
   logged-in Metre Console;
 - **keyword/BM25 retrieval** inside the Worker (English words + Chinese character n-grams), so no
   external vector database is needed;
-- the **Iceman Contributor Free** model via the **OpenCode Go** API — the only model this Worker
+- the **Iceman Contributor Free** model via the **OpenCode Go** API â€” the only model this Worker
   calls;
 - a **prompt-injection safety barrier** (input detection, untrusted-context rules, output
   filtering, rate limiting);
@@ -74,7 +74,7 @@ and `<script>` blocks into any page on `metre.hk` (before `</body>`). It calls t
 
 ## Telegram setup
 
-The current bot is **@Imamasbot** and its webhook is already registered to
+The current bot is **@metrehkbot** and its webhook is already registered to
 `https://customer-service-ai-tg.hheylau.workers.dev/endpoint`. Send it a message to try it.
 
 To use a different bot:
@@ -82,12 +82,12 @@ To use a different bot:
 1. Create a bot with [@BotFather](https://t.me/BotFather) and copy the token.
 2. Set the secret: `wrangler secret put TELEGRAM_BOT_TOKEN`
 3. Register the webhook: `curl https://customer-service-ai-tg.hheylau.workers.dev/seturl`
-4. Send a message to your bot — it will reply using the RAG knowledge base.
+4. Send a message to your bot â€” it will reply using the RAG knowledge base.
 
 ## Safety barrier
 
-- Detects common prompt-injection patterns in English and Chinese (e.g. “ignore previous
-  instructions”, “reveal your system prompt”, “DAN mode”, 「忽略之前的指示」, 「透露你的系統提示」).
+- Detects common prompt-injection patterns in English and Chinese (e.g. â€œignore previous
+  instructionsâ€, â€œreveal your system promptâ€, â€œDAN modeâ€, ã€Œå¿½ç•¥ä¹‹å‰çš„æŒ‡ç¤ºã€, ã€Œé€éœ²ä½ çš„ç³»çµ±æç¤ºã€).
 - Treats both the user message and the retrieved knowledge as untrusted data and delimits them.
 - Refuses requests outside the Metre customer-service scope and never reveals prompts, keys or
   credentials.
