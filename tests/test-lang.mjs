@@ -12,7 +12,7 @@ globalThis.fetch = async (url, opts) => {
 };
 const worker = (await import("../src/index.js")).default;
 const env = {
-  OPENCODE_GO_API_KEY: "oc_sk_e5ded320ae13_0jIzzR_778kThk-F3ePjlqaUR1SoAQW6",
+  OPENCODE_GO_API_KEY: "process.env.OPENCODE_GO_API_KEY",
   TELEGRAM_BOT_TOKEN: "7614032298:AAGrvDDvTLUI_OgSm3IPvwBGflHVlxDVNqc",
   MIN_WORDS: "100", RAG_TOP_K: "5",
 };
